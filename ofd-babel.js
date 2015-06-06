@@ -108,22 +108,33 @@ $("#roomChoices").on("click", ".choice", function (ev) {
   story.next($(this).data("id"));
 });
 
-jQuery.get("data.txg", function (data) {
-  var lines = data.split("\n");
-  lines.forEach(function (line) {
-    switch (line[0]) {
-      case "~":
-        var breaked = line.substring(1).split(" @");
-        story.addScreen(breaked[0], breaked[1]);
-        break;
-      case "&":
-        var breaked = line.substring(1).split("%");
-        story.addChoice(breaked[0], breaked[1]);
-        break;
-      default:
-        story.addLine(line);
-    }
-  });
-
-  story.start();
+$('#datafile').on('change', function () {
+  console.log('change');
+  loadGame();
 });
+
+function loadGame() {
+  jQuery.get($('#datafile').val() + ".txg", function (data) {
+    var lines = data.split("\n");
+    lines.forEach(function (line) {
+      switch (line[0]) {
+        case "~":
+          var breaked = line.substring(1).split(" @");
+          story.addScreen(breaked[0], breaked[1]);
+          break;
+        case "&":
+          var breaked = line.substring(1).split("%");
+          story.addChoice(breaked[0], breaked[1]);
+          break;
+        default:
+          story.addLine(line);
+      }
+    });
+
+    story.start();
+  });
+}
+
+$(function() {
+  loadGame();
+})
