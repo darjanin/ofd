@@ -127,4 +127,3 @@ jQuery.get("data.txg", function (data) {
 
   story.start();
 });
-
