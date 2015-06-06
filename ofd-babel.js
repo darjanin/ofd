@@ -106,6 +106,7 @@ $("h1").click(function () {
 });
 $("#roomChoices").on("click", ".choice", function (ev) {
   story.next($(this).data("id"));
+  $('.screen').scrollTop();
 });
 
 $('#datafile').on('change', function () {
