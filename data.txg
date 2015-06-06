@@ -1,0 +1,746 @@
+~0 @Zaciatok                  
+                  
+                   <ONE F*I*N*E DAY: Nedela>
+                      By Degster, 2007
+
+&NOVA HRA %100
+&READ ME + KREDITY%101
+
+~100 @Uvod
+Je nedela vecer a ty sedis za svojim starym, drevenym, zvraskavenym 
+pocitacom, ktory ti z duboveho polena vyhobloval este stryko k tvo-
+jim 6. narodeninam.
+Kyvadlove naramkove hodinky pohodene na stole ukazuju 16:41. Tento u-
+daj si vsimas uz od chvile, co hodinky ukazovali 15:37 - uz odvtedy 
+vies, ze miesto hrania piskvoriek by si sa mal pripravovat na zaj-
+trajsi den v skole... Smola, piskvorky nepustia...
+No uz ta aj tak zacali nudit, je cas vybrat inu aktivitu na nedelne 
+odpoludne:
+
+&Zacat sa ucit %1
+&Zacat sa ucit %1
+&Zacat sa ucit %1
+
+~1 @Chemia
+Po tuhom rozmyslanim nad dalsim piskvorkovym tahom si sa napokon roz-
+hodol vytiahnut z pivnice svoj skolsky batoh a <KONECNE> sa zacat ucit 
+na zajtrajsi (pondelkovy) den plny skusania.
+
+&Ucit sa, ucit sa, ucit sa %2
+
+~2 @Chemia2
+Po desiatich minutach cumenia do nezrozumitelnych poznamok z chemie,
+hydroxidov, kyselin a zasad si radsej v zaujme zachovania zdraveho
+rozumu zavrel zosit a hodil ho do piecky na drevo - radiatory vam od-
+pojil Energobit pred troma rokmi - odvtedy nutene podporujete ekolo-
+gicke vykurovacie zdroje ako macky a stare koberce.
+A tak sedis a nemas do coho pichnut (okrem 80-rocnej starej panny na 
+druhom poschodi)...
+
+&Vypocut si kvalitnu LP nahravku%3
+&Zablbnut si so zapalkami%9
+&Vypadnut von %10
+
+~3 @Hudba
+Zo skrine si vytiahol starodavny gramofon a nejake LP platne ako bo-
+nus... Tak, cim zacnes diskoteku?
+&Alkehol - Hospodo nalejvej %4
+&Blink 182 - Go %5
+&Box Car Racer - Instrumental %6
+&Kabat - Porcelanovy prasata %7
+
+~4 @Alkehol
+Do gramofonu si opatrne vlozil dosku s nazvom <Alkehol - Hospodo na-
+lejvej>...
+Po par sekundach chrapcania a cakania na orchestralny zazitok sa
+tvojou izbou prehnala divoka vlna <rocku>.
+<"Hej, hej, hej, hej!!!>" Krical si z plnych pluc a prehadzoval si 
+vsetko, co sa prehodit nechalo (vratane nemohucej babky na voziku).
+Tvoje besnenie zastavil az prislusnik VB.
+
+&Dalej %3
+
+~5 @Blink
+Z krabice si vyhrabal podivnu dosku <Blink 182 - Go>.
+Vlozil si ju do gramofonu, cakajuc na to, co bude nasledovat...
+Podla ocakavani ta bicie Travisa Barkera rozohnili tak, ze pokri-
+kujuc <"Go, go, go, go!!!>" si pogoval po celej izbe, potom po ce-
+lom byte a ked si sa dverami, ktore otvoril tvoj brat, aby vynie-
+sol smeti, dostal von, tak uz pogoval po celom sidlisku.
+Zastavil ta az narodna garda... ale sila <neopunku> bola aj pre nu
+tvrdy oriesok...
+
+&Dalej %3
+
+~6 @Box
+Odniekial si vytiahol dosku <Box Car Racer - Instrumental>.
+Po par sekundach prehravania si vo vytrzeni vypadol z otvoreneho
+okna... Po pol hodine, ked vytrzenie opadlo, si sa vratil spat, 
+aby si pokracoval v <"diskoteke pre susedov">...
+
+&Dalej %3
+
+~7 @Kabat
+Z otcovej zbierky si si narychlo pozical <Kabat - Porcelanovy pra->
+<sata>...
+
+<"Tak dem, proc ne, vsechno to rozbijem!>
+<Porcelanovy prasata prachama narvany>
+<Auta, chaty, bazeny a ruce spinavy.>
+<Damy cely ze zlata co zlaty zuby maj,>
+<chovaj si ty svy prasata a obcas jim i daj!>
+
+<Tak dem, proc ne, vsechno to rozbijem,>
+<tak dem, proc ne, trochu si uzijem!">
+
+Dalsi komentar je tu zbytocny... nech zije Kabat!
+
+&Dalej %2
+
+~9 @Zapalky
+Odkialsi z vrecka si vytiahol "bezpecnostne" zapalky a tak si si s 
+nimi trosku zablbol -> zapaloval si a uhasinal si vsetko, co ti pris-
+lo pod ruky. A tak po pol hodine blbnutia ste mali byt plny dymu a 
+smradu z obhorenej omietky. Potom si zapalky ukryl, aby si s nimi nik-
+to neublizil.
+
+&Dalej %2
+
+~10 @Von
+Rozhodol si sa vypadnut von - do prudkej snehovej burky - kde je ur-
+cite lepsie ako v tej prudkej nude doma.
+Mas vytipovanych par miest, kde mozes stretnut zname tvare, alebo aj 
+nie, ved do takejto snehovej (f/ch)ujavice by liezol iba uplny debil, 
+vsak?
+
+&Herna %11
+&Vecierka%55
+&Sidlisko %59
+
+~11 @Herna
+Snehovou burkou si sa dotrepal az do herne <Spider>, co je vlastne 
+kaviaren s troma konzolami Playstation a hrou GTA 2. Je to miesto, 
+kde sa stretava miestna sidliskova mladez a kde majitel Marian orga-
+nizuje (vraj) tajne stretavky Yakuzy. 
+
+&Dalej %12
+
+~12 @Herna2
+Ocitol si sa vo vyhriatej miestnosti s rozlohou vasho bytu. Herna je, 
+na tvoje pocudovanie, plna - nie si teda sam, co sa rozhodol zabit nu-
+du poflakovanim sa i v tomto necase.
+Marian, flegmaticky majitel, nalieva a inkasuje, v predsieni fajci par
+ludi, zatial co zvysok sa tlaci dnu v teple.
+
+&Objednat si %13
+&Pokecat s Jozom, the spoluziakom %17
+&Ist prec %10
+
+~13 @Herna3
+Hlucnym davom mladych ludi si sa predral az k pultu, spoza ktoreho 
+na teba zazera Marian. Asi caka, ze si objednas.
+
+&Kola %14
+&Kava %15
+&Pivo %16
+
+~14 @Kola
+Zazerajuceho Mariana si potesil objednavkou predrazenej koly, ktoru 
+vzadu miesa z vody, cukru a potravinarskeho farbiva a predava to za 
+30,-Kcs.
+To mu zjavne, hajzlovi, nestaci, lebo stale na teba tak zvlastne cu-
+mi, akoby ta hypnozou nutil k tomu, aby si si nieco objednal... Je to 
+svina, ten Marian.
+
+&Kola %14
+&Kava %15
+&Pivo %16
+
+~15 @Kava
+Objednal si si salku presladenej kavy, dufajuc, ze ta zohreje. Na tvo-
+je pocudovanie ti Marian po pulte posunul plastovy pohar studenej ka-
+vy a na tvoje vyhrady zhrabol peniaze a poslal ta do riti.
+
+&Kola %14
+&Kava %15
+&Pivo %16
+
+~16 @Pivo
+Riskol si a vidiac, ze Marian ma dobru naladu, objednal si si velke 
+pivo. Na Marianovu otazku ohladom obcianky si sa slusne podakoval, 
+otocil sa a odisiel od pultu.
+
+&Pokecat s Petom, "the spoluziakom" %17
+&Ist prec %10
+
+~17 @Jozo
+Pri jednej z Playstationov si nasiel svojho spoluziaka Joza, ako u-
+silovne mlati do joysticka, za bujarych pokrikov jeho kamosov vraz-
+diaci nevinnych civilistov.
+<"Serus,"> poklepal si po pleci.
+Peto sa chvilu otacal do vsetkych svetovych stran, aby nasiel povod-
+cu poklepania, az kym ta nenasiel.
+<"Nazdar!"> Zakrical a predal joystick dalsiemu natesenemu "masovemu
+vrahovi". 
+
+&Dalej %18
+
+~18 @Jozo2
+<"Jak sa mas, stary?"> Zakrical na teba Jozo, aby prehlusil hluk 
+v herni.
+<"Na styri pismena, Jozef. A ty jak?">
+<"To vies, v stredu bude vysvedcko. Domov sa dajak velmi nepona-
+hlam...">
+<"Tak to vyzera, ze ponahlat sa nebudem v najblizsej dobe ani ja..."> 
+Musel si smutne uznat.
+<"Bavi ta to tu? Lebo by sme mohli zajst do CVC, mam tam stretko s
+cajou..."> Navrhol Jozo.
+Prikyvol sa a tak ste obaja vysli zo Spidera a namierili ste si 
+do <CVC - Centra volneho casu>... 
+
+&Dalej %19
+
+~19 @CVC
+<CVC - Centrum volneho casu> - pre niekoho mozno desiva skratka, no 
+pre teba to teraz znamena zabavu, i ked viazanu organmi cinitelnymi 
+v trestnom konani. Cez vikendy sa totiz v CVC konala vyhlasena dis-
+koteka, kde sa zhrnula a ozrala mladez z celeho okolia i neokolia.
+Nie si sice oblubitel diskotek, ale chlast a zeny buraju vsetky za-
+brany takeho punk-rokoveho zivla, akym rozhodne si.
+
+&Dalej %20
+
+~20 @CVC2
+Cestou do <CVC>, teda asi 15 minut, ste s Jozom kecali o vsetkom moz-
+nom, kedze ste sa dlho nevideli, kedze si posledny tyzden marodoval
+(a liecil si sa v bare blizko skoly, teda si z tej marodky uz vela
+nepamatas). 
+Z Joza nakoniec vyslo, ze svoju terajsiu frajerku zbalil na priemys-
+lovke, kam chodi ona i Jozov sused. Toho bol raz Jozo navstivit a na-
+hodou sa zoznamil s Katou. Slovo dalo slovo a dajakou vesmirnou naho-
+dou sa ti dvaja dali dokopy, co sokovalo i samotneho Joza, kedze nie 
+je ziadny Don Juan.
+
+&Dalej %21
+
+~21 @CVC3
+A tak ste asi po stvrt hodine dosli tou snehovou fujavicou az do CVC 
+(sli ste z kopca, cestou nazad vam to bude trvat tri hodiny).
+Pred CVC sa zgrupovali podnapiti mladeznici, co davalo tejto chvili 
+taky rodinny raz.
+Ked ste sa spolu s Jozom prepchali pomedzi mladez az do budovy, oslnil 
+vas vysvieteny plagat na dverach. 
+Napis <"Taketo darceky nechceme :-("> a obrazok hromady spakov Joza ako 
+fajciara a teba ako prilezitostneho srdecne rozosmial.
+
+&Dalej %22
+
+~22 @CVC4
+<"Taky darcek by som bral,"> nadhodil Jozo, ked ste sa uz predierali 
+druhou skupinou mladych ludi, tentoraz uz vnutri budovy. No to ste sa 
+uz ocitli v hale. Stroposkop vam do oci hadzal farebne luce svetla, 
+hudba rozbijala okna a ludia sa vlnili v rytme diska - pripomenulo ti 
+to 80. roky, az si sa srdecne rozosmial.
+Nanestastie, nejaky frajer si myslel, ze sa smejes z neho a z jeho 
+"tanca" a tak ti polozil neprijemnu otazku:
+                 <"Z koho sa kurva rehnis?!">
+
+&"Sorry, ale tancujes strasne" %23
+&"Z teba, ty buzerant" %24
+
+
+~23 @Debil1
+<"Sorry, ale tancujes strasne,"> odpovedal si slusne. To sa vsak tomu
+ nadopovanemu smejdovi nepacilo a so slovami <"Pod von!"> ta vyhnal 
+(prekvapivo) von.
+
+&Dalej %25
+
+~24 @Debil2
+<"Z teba, ty buzerant,"> odpovedal si lakonicky. No to ta uz ten nado-
+povany smejd vyvadzal von.
+
+&Dalej %25
+
+~25 @Debil3
+<"Uz nie si taky frajer, co?!"> Zakrical ti do ucha nahoneny svalnac, 
+ked ta vonku pred CVC, uprostred skupinky ludi, drzal pod krkom asi 
+pol metra nad zemou.
+Okrem chrcania si mu inak odpovedat nemohol. Ludia sa zoskupili okolo 
+vas na krvave divadlo, co ti odvahy velmi nepridalo. Pohladom si behal 
+po ich tvarach, ci neuvidis niekoho znameho. Nestalo sa, dokonca si 
+nikde nevidel ani Joza.
+
+&Dalej %26
+
+~26 @Debil4
+<"Uz si si nasral do gati?!"> Opytal sa ta svalnac. Pokrutil si hlavou,
+ako ti len povoloval chlapikov stisk.
+<"Kurva, Milan, co to stvaras?"> Ozvalo sa v dave. Spoznal si Jozov hlas, 
+no stale si nevedel, s kym sa to rozprava. Na tvoje <obrovske> stastie 
+Jozo rozpraval s tym svalnacom. Hura, oni sa poznaju, napadlo ti. 
+Dnes teda neumries. Dufajme...
+
+&Dalej %27
+
+~27 @Debil5
+<"Kamo, pust ho, to je moj kamos,"> povedal Jozo svalnacovi. Jeho stisk 
+oslabol, az ta svalnac pustil na zem. Opat si sa nadychol a krv sa ti vra-
+tila do hlavy.
+<"Ten chuj?">
+Jozo prikyvol.
+<"Pod het, pozyvame ta,"> odhovoril Jozo svalnaca od tvojej vrazdy a chy-
+til ho okolo obrovskych pliec.
+
+&Dalej %28
+
+~28 @Kata
+Zatial co Jozo urovnaval spor so svalnacom, ty si sa vo vnutri zoznamil s
+tou Jozovou laskou. Kedze na prvy pohlad nevyzerala na mentalne narusenu, 
+rozhodol si sa ju podrobit testu vo forme otazok, kedze sa ti stale nezda-
+lo, ze by dajake dievca zacalo same od seba chodit s Jozom. Po tom, co si 
+mohol vylucit zaostalost, ci stavku si musel prehlasit, ze veci medzi ne-
+bom a zemou sa fakt stavaju.
+
+&Dalej %29
+
+~29 @Kata2
+Po pol hodinke sa k tebe a svojej laske vratil Jozo, potom, co urovnal spor
+s tym kulturistom, s ktorym si sa zoznamil pred chvilkou. Z Joza vyslo, ze
+je to jeho bratranec z druheho kolena. Vraj spolu nemaju prave najvrucnejsi
+vztah, ale mala "paka" vraj stacila na ukoncenie vstekych sporov (teda ti 
+uz nepojde po krku - len aby ta "paka" nebola az prilis mala...)
+
+&Dalej %31
+&Zistit, o aku paku ide %30
+
+~30 @Paka
+<"Aka paka?"> Opytal si sa Joza.
+<"Prislubil som mu, ze ak s nim este budes mat dajake problemy, tak pre->
+<zradim celemu mestu, ze som mu ako decko nasiel pod postelou fotku Evy>
+<Mazikovej... s podpisom a lepkavym prekvapenim...">
+Dalej si sa uz nepytal... samozrejme si nechcel vediet viac... ani ja nie..
+
+&Dalej %31
+
+~31 @Vonku
+Spolocne (ty, Jozo, Katarina) ste sa vydali do mesta. Bolo uz asi sedem ho-
+din vecer a mesto bolo plne ludi - fujavica ustala a na to, ze je nedela,
+kazdy sral (z vysoka i z blizka, z daleka i nizka).
+Rozhodli ste sa, ze sa zajdete zohriat do malej kaviarne na namesti (Jozo 
+i Kata to "zohriat" mysleli dvojzmyselne - to sa teba netyka)...
+
+&Dalej (...milion-patsty-krat...)%32
+
+~32 @Kafe
+Dosli ste do poloprazdnej kaviarne na namesti. 'Je tu fajne,' pomyslel si
+si, ked si sa tam trochu zorientoval. Male, drevene stoliky + este mensie
+stolicky (tvoja teta Lenka by mala problem udrzat sa so svojimi 150 kilami
+na tom stole, nie este na stolicke... je to KUS zenskej...:-)), barovy pult 
+s pohladnou servirkou a nepohladnym veducim a steny ovesane obrazmi podrad-
+nych "maliarov".
+<"Co to bude?"> Pyta sa ta servirka s blokom v ruke.
+
+&Kapucino%33
+&Mokacino%34
+&Instant kavu s vriacou vodou%35
+
+~33 @Kapucino
+Zahral si sa na praveho talianskeho Don Juana a hladiac do servirkinych mo-
+drych oci si si lubezne objednal kapucino... a dufas, ze je to fakt nieco 
+na pitie a ze sa z toho neposeries (si velke, nekulturne prasa, vies to?).
+Na tvoje velke stastie ti servirka priniesla spenenu kavu...
+To stastie si uz, zial, nemal, ked si si objednal pastu a cakal cukor (tvo-
+ja znalost talianciny je obmedzena na pizzeriu vo vedlajsom bloku)...
+
+&Dalej%36
+
+~34 @Mokacino
+Kedze sa v tom velmi nevyznas, musel si nazriet do jedalneho listka.
+Pri polozke <"moccacino"> si ale v myslienkach presiel na odkaz <"AlPacino">
+Na servirkin udes si upadol do tranzu, v ktorom si prisahal smrt vsetkym Ta-
+ttagliovcom, Carlosovi i kokotovi chujovi na Sicilii, co vyhodil do vzduchu 
+Michaelove auto i s Michaelovou zenuskou... Zivot je tak nespravodlivy...
+
+&Dalej%36
+
+~35 @Vriaca voda
+<"Neviem, ci to poznate,"> zacal si. <"Do salky sa da istantna kava a cukor,>
+<a zalejete to vriacou vodou...">
+Servirka ocenila tvoj pokus o vtip, ale vraj to uz na nu nemas skusat... :-)
+
+&Dalej%36
+
+~36 @Kaviaren
+Po piatich minutach vam uz servirka na stol priniesla dymiace salky, no to uz
+debata pri vasom stole presla vsetkymi moznymi temami od pomeru Busha s bin 
+Ladinom, cez papezove vnucata, pokusy na zvieratach, ktorych vysledkom je 
+tvoja triedna, az po grupace v kuchyniach rychlych obcerstveni...
+
+&Dalej%37
+
+~37 @Kaviaren2
+Vas druzny rozhovor sa nahle skoncil, ked Kata nahodou objavila cast Jozovho
+tela, ktoru uz dlhy cas nevidela a tak si zostal trochu stranou, zatial co si
+ty ti dvaja navzajom cistili jazyky a priedusnice...
+Zacinas sa nudit a tiez by si sa rad zabavil:
+
+&Pootravovat byvalku%38
+&Prekecnut servirku (a mozno i viac...:-))%60
+
+~38 @Prezvon
+Ani nevies ako a preco, ale akoby nahodou si vytocil svoju byvalku, ktoru si
+uz dva tyzdne nevidel. Vas rozchod stale beries tazko a obcas to i lutujes (ze 
+si to neurobil skor - bola hrozna bestia, pri takej len <"odhodit penazenku a>
+<utekat"> :-))...
+Ta krava mala vypnuty telefon (ako furt, ked si jej volal)... nastastie...
+
+&Dalej%37
+
+~60 @Servirka
+Vstal si od kaviarenskeho stolika a presiel si k pultu, za ktorym postavala
+asi 25-rocna servirka ciernych vlasov a atraktivnej postavy.
+
+&"Ahoj"%39
+&"Hello"%40
+&"?hola!"%41
+
+~39 @Servirka1
+Usmial si sa, ako si najlepsie vedel a prosto si sa pozdravil
+<"Ahoj!">
+<"Ahoj,"> odzdravila ti servirka a usmiala sa (asi na teba).
+
+&"Pracujes tu dlho?"%42
+&"Nevideli sme sa niekde"%44
+&"Rozisiel som sa s priatelkou"%45
+
+~40 @Servirka1a
+Lezerne si sa oprel o pult, narovnal si slnecne okuliare, ktore ti o pol desia-
+tej vecer boli dobre iba na 2 veci, vyceril si zuby a na celu kaviaren si zvo-
+lal:
+<"Hello!">
+Servirku prepadol hystericky smiech... Po pol hodine, ked uz bola schopna pove-
+dat dve suvisle vety, pochvalila tvoj zmysel pre humor, ale ze uz to vraj ne-
+mas opakovat... si pako.
+
+&"Pracujes tu dlho?"%42
+&"Nevideli sme sa niekde"%44
+&"Rozisiel som sa s priatelkou"%45
+
+~41 @Servirka11
+Rukou si si uhladil vlasy, potom si nou presiel po pulte a pozdravom <"?hola!">
+si vyuzil vsetky svoje vedomosti spanielciny.
+Servirka to, nanestastie, nanestastie pochopila ako znak toho, ze vies po spa-
+nielsky, co ona vedela tiez (zila tam predtym 7 rokov) a tak na teba spustila
+sprsku spanielskych slov a zvukov, na co si len prikyvoval, kedze ti bolo blbe
+priznat sa, ze po spanielsky vies len "FC Barcelona"... aspon sa s tebou roz-
+pravala...
+
+&"Pracujes tu dlho?"%42
+&"Nevideli sme sa niekde"%44
+&"Rozisiel som sa s priatelkou"%45
+
+~42 @Servirka2
+<"Pracujes tu dlho?"> Zaujimalo ta.
+<"Asi tri roky,"> odpovedala ti. <"Mam 27,"> pokracovala, ked videla ako sa zby-
+tocne snazis vypocitat si jej vek.
+<"Ja tiez,"> usmial si sa. <"O... 12 rokov...Dokedy mate otvorene?"> Zmenil si
+radsej temu.
+<"Do pol jedenastej,"> odpovedala ti servirka a pozrela na nastenne hodiny, kto-
+re ukazovali nieco po desiatej.
+<"A potom?"> Nadhodil si zvodny pohlad.
+<"Potom sa po mna zastavi priatel - byvaly majster Europy v thajskom boxe...">
+odpovedala ti prijemne a teba zamrazilo.
+<"Ha-ha, robim si srandu,"> upokojila ta. <"Bol treti...">
+
+&Dalej%43
+
+~44 @Servirka3
+<"Nevideli sme sa uz niekde?"> Pokusil si sa...
+<"Ano, tiez si myslim,"> zacala. <"Nebolo to nahodou v tej malej kaviarni na>
+<namesti?">
+<"Fakt, mas pravdu..."> To je neuveritelne! To dievca ta opat zotrelo!
+
+&Dalej%43
+
+~43 @Servirka
+Tvoji priatelia pri stole teraz zjavne riesia otazku zachovania ludskej popula-
+cie, tak mas este cas na zoznamenie s krasnou servirkou:
+
+&"Pracujes tu dlho?"%42
+&"Nevideli sme sa niekde?"%44
+&"Rozisiel som sa s priatelkou"%45
+
+~45 @Servirka4
+<"Pred hodinou som sa rozisiel s priatelkou..."> zacal si smutne.
+<"Ach, chudacik,"> polutovala ta a ty si na xichte vycaril usmev.
+<"Dakujem.">
+Chcel si pokracovat, ale zozadu vysla hnusna skareda zenska, ktora tam
+radsej mala zostat.
+<"Ja to tu vezmem,"> povedala tej kocke cez strbave zuby a opytala sa ta,
+ze co si das.
+Radsej si od pultu odisiel, nieto este daco vypil, lebo by si jej to vygr-
+cal do toho jej hnusneho xichtu...
+Krasna servirka zatial zmizla vzadu za dverami...
+
+&Dalej%46
+
+~43 @Servirkaa
+Tvoji priatelia pri stole teraz zjavne riesia otazku zachovania ludskej popula-
+cie, tak mas este cas na zoznamenie s krasnou servirkou:
+
+&"Pracujes tu dlho?"%42
+&"Nevideli sme sa niekde?"%44
+&"Rozisiel som sa s priatelkou"%45
+
+~46 @Dalej
+Vratil si sa ku stolu:
+<"Tak, co teraz?"> Opytal si sa.
+<"Katke teraz volala kamoska, ze ma volny byt, ci vraj nechceme prist,"> zdelil
+ti Jozo.
+<"Tak sa majte,"> rozlucil si sa.
+<"Co blbnes, ides s nami,"> rozkazal Jozo a Katka prikyvla.
+Tak ste sa opat vsetci traja vydali nevedno kam - smer udavala Katka a ty s Jo-
+zom ste ju nasledovali ako poslusne psiky (Jozo aj slintal).
+
+&Dalej%47
+
+~47 @Dalej2
+Asi po stvrt hodinke kluckovania po namesti a medzi budovami ste dorazili do 
+starej, panelakovej stvrte z este dob pred totalitou.
+Pri jednej, starodavnej budove sa Katka pristavila a zazvonila na vchodovy
+zvoncek.
+Ozval sa silny, zvonivy, dievcensky hlas, az ste s Jozom podskocili a ty si
+zacal premyslat nad tym, ci to predsa len bol dobry napad. No to uz bolo nes-
+koro.
+
+&Dalej%48
+
+~48 @Dalej3
+Majitelka zvoniveho hlasu vam otvorila vchodove dvere a vy potom ste sa museli
+splhat starodavnym schodiskom na tretie poschodie.
+Tam vas na dverach otvorilo nizke dievca, "vysmiate jak leco" - Katka ta pred-
+stavila ako Jozovho kamarata (neviem co si cakal).
+Dnu uz bola prijemna particka ludi tvojho veku - niektorych si poznal viac, 
+inych menej... Na stole uz bolo ponalievane i porozlievane, par ludi so slab-
+simi korienkami uz sedelo na zemi a cosi mumlalo.
+Lenka, majitelka zvoniveho hlasu, sa pyta, co si das:
+
+&Fernet%49
+&Vodka%50
+&Cigareta%51
+
+~49 @Fernet
+Ani si nestihol poprosit Fernet, a uz si mal panaka v ruke a strngal o vsetko 
+sklo na okoli. A potom este raz, a este raz a este dvakrat...
+Tvoje chvilkove fernetove oslabenie vyuzil niekto z pritomnych a do ruky ti
+strcil panaka Vodky a uz to slo... Zhruba po tento okamih ti siaha tvoja pa-
+mat...
+
+&Dalej%52
+
+~50 @Vodka
+Porucil si si Vodku... a potom dalsiu... a este jednu... alkohol je svina...
+
+&Dalej%52
+
+~51 @Cigareta
+Alkohol si slusne odmietol (ved mas zajtra skolu) a radsej si sa spytal, kde
+si mozes zapalit. Lenka ta poslala na balkon...
+Na balkone sa uz hojne "vetralo" par ludi. Privitali ta medzi seba a dokonca
+ti i ponukli (je zaujimave, ze tato spolupatricnost sa vyskytuje iba u faj-
+ciarov). Ty si mal vlastne (konkretne GoldenGate), no ponukany zapalovac si
+uz neodmietol, kedze si niekde musel stratit svoje dva pazuriky...
+Dal si dve cigaretky a vratil si sa dnu, kde sa v tebe prebudil apetit a tuz-
+ba po alkohole... 
+
+&Dalej%52
+
+~52 @Alkohol
+A tak si pil, a pil, a dievcata chytal za zadky, a pil...
+
+&Dalej pit%53
+
+~53 @Prebudenie
+Prebudenie... Hrozne prebudenie na smetisku ludskych pozostatkov...
+Nasledujuce rano ti dozicilo tragicke prebudenie na Lenkinom gauci...
+vedla Lenky, a Petry, Martiny, Dusana, Jebkyho,... tolko mien, kolko ludi
+vedla teba a na tebe a pod tebou lezalo, si nedokazes v mysli ani vybavit.
+
+Pri pohlade na svoj mobil pohodeny na zemi, 32 neprijatych hovorov z domo-
+va, casovy udaj 9:56 a hlavne pomyslenie na skolu ti na xichte vycarilo
+                             <USMEV...>
+
+&Koniec%54
+
+~54 @Koniec
+<A toto je koniec... Pre uplnost uvediem, ze rodicia ta sprdli ako psa, tvoj>
+<nenavideny starsi brat ta uprimne pochvalil a tvoji spoluziaci a priatelia>
+<tento tvoj pribeh siria dalej...>
+
+<Tymto sa konci tato moja "debutovka". Dufam, ze sa vam pacila a ze si ju>
+<este niekedy radi zahrate...>
+<Lucim sa s vami a zelam i vam vela takychto>
+                         
+                           <ONE F*I*N*E DAYs>
+                                                
+                                              <Degster (degster@centrum.sk)>
+|
+
+~55 @Vecierka
+Rozhodol si sa omrknut vecierku, kde vedla pijakov a bezdakov sedeli tvoji
+ludia - <Mato, Padres a Dusan>.
+<"Cest,"> zahlasil si, len co si vosiel a zbadal si tych troch, ako mastia
+karty.
+<"Zdar,"> kyvol ti Padres - Mato zatial pri pokladni vracal flasky od
+malinovky znacky DS - Diabitekova Smrt. Dusan - Duno sa prave vyberal von
+zapalit si.
+<"Jak to ide?"> Zaujimal si sa, len co si sa usadil.
+Padres ti kyvol hlavou, ze hej, Mato tiez (lebo ma opuch zubneho nervu a
+nemoze rozpravat :-)). Tak si s nimi chvilu hral karty namiesto Dusana,
+ktory dymil vonku, pred vecierkou.
+
+&Dalej%56
+
+~56 @Vecierka2
+Po chvili sa vratil s prikurenym usmevom a jeho hlaskou <"Idem do Habury.">
+Dusan je Haburcan, a len co sam vypustil zmienku o tejto "prvej oslobodenej
+obci na Slovensku", spustil lavinu svojich prohaburskych hesiel...
+Vy ste si uz zvykli a tak ste nereagovali, naopak predavac, nezvyknuty na
+Dusanove prohaburske zachvaty, uz-uz vytacal policiu a hlasil demonstraciu
+v jeho vlastnej vecierke.
+
+&Dalej%57
+
+~57 @Vecierka3
+A tak, len co Dusan zmizol do Habury, mohli ste vy traja (ty, Mato, Padres)
+nerusene pokracovat v kartach...
+Bolo to vlastne najprijemnejsia moznost stravenia nedelneho popoludnia.
+Hrali ste karty, popijali Diabetikovu Smrt a zmietali sa v hypoglemickych
+zachvatoch, bavili sa o "dolezitych" blbostiach a rehnili sa z ozranov a 
+ochlastov, co sedeli pri vedlajsom stole.
+Na toto popoludnie budes dlho spominat, no teraz uz musis ist dalej - Mato
+ide do zubarky s tym svojim nervom a Padres dostal chut dakoho zbit - ide
+s tym teda na Sidlisko III.
+
+&Dalej %58
+
+~58 @Vecierka4
+<Tuto kapitolku hry venujem svojim kamosom: Padresovi, Matovi a jeho nervu,>
+<Dusanovi z Habury a Adamovi z cintorina a Matusovi z Dlheho.>
+<"Chalani, te pero!">
+
+&Dalej %10
+
+~59 @Sidlisko
+Vykaslal si aj na uz spominane podniky a zostal si na sidlisku. Vietor so
+snehom ta zanasal sem a tam a okrem bezdomovcov si nestretol nikoho.
+Jeden, obzvlast spinavy bezdomovec, ta dokonca chcel ako hracku na domov.
+Ked si mu vysvetlil, ze nie si hracka ale zivy chlapec a on je pravdepo-
+dobne, vychadzajuc z oci, ktore kazde hladelo inym smerom a sacku od mlie-
+ka, ktory mal prilepeny na brade, asi sfetovany z toluenu.
+Bezdomovec sa uprimne zacudoval a poslal ta do riti.
+
+&Dalej %10
+
+~101 @Read me
+<Tak... po mesiacoch, mozno i rokoch ucenia sa programovat Vam konecne prina->
+<sam textovu hru mojej vlastnej, osobitej vyroby, ktoru som nakoniec vytvoril>
+<v programe TGE - Text Game Engine, ktoreho tvorcom je The Fox (:-)).>
+<Nevyhoda TGE je viditelna na prvy pohlad - diakritika. TGE (aspon verzia,>
+<ktorou disponujem v sucastnosti) nepodporuje makcene a dlzniky, no i napriek>
+<dakujem The Foxovi za to, za tento engine vytvoril...>
+
+&Dalej %102
+
+~102 @Read me2
+<Za vznikom tejto hry vlastne stoji ista neprijemna udalost, ked som sa v skole>
+<(momentalne studujem Gymnazium v Humennom) par dni pred polrocnym vysvedcenim>
+<dozvedel, ze z matiky mam za 4. Samozrejme, nie som ziadny sprt, ze by som z>
+<toho skakal pod vlak, ale jedno mi to nebolo. Dal som si predsavzatie, lepsie>
+<povedane slub, ze o tom rodiscovstvo informujem cez vikend pred vysvedckom...>
+<Sluby su pekna vec, ale ked som si v nedelu podvecerom uvedomil, ze o tri dni>
+<prinesiem na papieri hodnotenie "dostatocny", dostal som sa do stavu zvlastne->
+<ho dusevneho rozpolozenia, prave v ktorom som zacal s tvorbou tohto mojho de->
+<butu. A prave o 15.37 som napisal prvy riadok, ktory mi napadol...>
+
+&Pokracovanie story%103
+
+~103 @Read me3
+<Prvu etapu vyvoja tejto gamesi tvoril, myslim, 28. januar, kedy som napisal>
+<prvu vetu a asi polovicu hry. Snazil som sa hru dokoncit za jeden (prvy)>
+<vecer, kedze som vedel, ze kvoli vysvedcku pridem nielen o telku a "vychadzky",>
+<ale prvom rade i pocitac. Zial, nestihol som to a tak sa dokoncenie hry pre->
+<lozilo na neurcito...>
+<...Teda prave na vcerajsok, kedy som po mesiaci opat zasadol za comp, opat>
+<som si pustil TV a opat som sa dostal von medzi ludi... a tak vyvoj tejto hry>
+<mohol pokracovat... a pokracuje...>
+
+&Dalej ku kreditom%105
+
+~105 @Thanx
+<A teraz slubovane kredity.>
+<Takze:>
+              <Text ..... Degster (kontakt: degster@centrum.sk)>
+              <Idea ..... Degster>
+           <Grafika ..... Degster>
+          <Program  ..... TGE by The Fox (thefox@pobox.sk)> 
+      <Hudbu nahral ..... Orchester Ceskoslovenskej televizie (Divizia hluchone->
+                                                              <mych)>
+  <A vsetko ostatne ..... (samozrejme) Degster>
+
+&Dalej ku kreditom%106
+
+~106 @Read meThanx2
+<Specialne podakovanie:>
+
+<kapelam Alkehol, Blink 182, Box Car Racer, Godsmack, Good Charlotte,>
+<Green Day, Hex, Horkyze Slize, Ine Kafe, Kabat, Korn, Limp Bizkit,>
+<Nirvana, P.O.D., Plus 44, Polemic, Rammstein, Red Hot Chilli Peppers,>
+<Smola a Hrusky, Sum 41, System of a Down, The Offspring, The Prodigy,>
+<a inym, na ktore som zabudol...>
+  
+&Dalej ku kreditom%107
+
+~107 @Thanx3
+<ludom ako Dunovi, Padresovi, Matusovi, Matovi M. a Adamovi,>
+<Happymu ako Najpohodovejsiemu barmanovi v Dubovici a jeho psom,>
+<ktore sme nastastie nestretli,> 
+<Jarovi H. (ktoreho som nevidel asi 3 roky, co ma pekne serie),>
+<Palovi Z., Matovi 2, Milanovi D., Andrejovi K.,... teda celej kvinte,>
+<samozrejme Gymnazium arm. gen. L. Svobodu v Humennom - mojej alma mater>
+
+&Dalej ku kreditom%108
+
+~108 @Thanx4
+
+<"nasim dievcatam", ktore dufam toto nikdy neuvidia, lebo uz teraz> 
+<ma maju za maniaka, t.j. Ivke, Simone, Diane, Anne, Nine a Lei,>
+<a Misi D., ktora uzatvara zoznam "mojich" naj dievcat...>
+
+&Dalej ku kreditom%109
+
+~109 @Thanx5
+<mojej rodine za ne-podporu, mestu Humenne, v ktorom stale padam na hubu,>
+<bratrancom Petom (hlavne prvym dvom), ze su to fajn typci,>
+<Davidovi Havlickovi za Fuckstory, SleepTeamu a Ludkovi Svobodovi za Pol->
+<du, Zima Softu za Poldovo dojebanie, hre Posel Smrti, ktoru stale zeriem,>
+<hram Fallout, Diablo, Mafia,... jednoducho vsetkym dobrym hram, ktore som>
+<musel kvoli vysvedcku vyhodit, ale ja si ich este raz zozeniem!,>
+<samozrejme Pulp Fictionu ako najlepsiemu filmu a Johnovi Travoltovi> 
+<ako najlepsiemu hercovi,>
+<a na zaver: dakujem Ping-Pongovi, mojmu vietnamskemu dodavatelovi cinskych> 
+<tramiek, teda ciniek,>
+                                <.............>
+&Dalej%110
+
+~110 @Thanx6
+<A dakujem samozrejme TEBE za to, ze si prejavil zaujem o tuto hru...>
+<Dufam, ze sa ti pacila a budem rad, ak mi svoj nazor zasles na moj mail>
+                           
+                           <degster@szm.sk>
+
+<A to by bolo odo mna vsetko... dufam, ze sa skoro opat stretneme pri dal->
+<sej mojej hre...>
+                  <Degster>
+|

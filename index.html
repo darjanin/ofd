@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OFD</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="node_modules/babel-core/browser.js"></script>
+  <style media="screen">
+    body {
+      font-size: 1.2vw;
+    }
+    @media screen and (max-width: 800px) {
+      body {
+        font-size: 20px;
+      }
+    }
+    #roomChoices {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    h1, h2, p {
+      font-family: monospace;
+    }
+    .screen {
+      width: 90%;
+      /* height: 360px; */
+      /* overflow: scroll; */
+      margin: 0 auto;
+      /* background-color: #0000aa; */
+      /* color: white; */
+    }
+    .choice {
+      background-color: #222;
+      color: white;
+      display: inline-block;
+      padding: .5em 1em;
+
+    }
+  </style>
+</head>
+<body>
+  <div class="screen">
+    <h1>One fine day</h1>
+    <h2 id="roomName"></h2>
+    <p id="roomText"></p>
+    <pre><ul id="roomChoices"></ul></pre>
+  </div>
+  <script type="text/babel" src="ofd.js">
+  </script>
+</body>
+</html>
