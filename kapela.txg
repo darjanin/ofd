@@ -1,0 +1,1269 @@
+~0 @Zaciatok                  
+
+                           * * * *                  
+                         * <KAPELA> *
+                           * * * *
+                          TextGame
+                      By Degster, 2007
+
+&NOVA HRA %1
+&READ ME + KREDITS%111
+&KONIEC%113
+
+
+~1 @Uvod                
+Je piatok, <15.45> a teba teraz plne zamestnava tvoj starozitny budik s Mickey 
+Mousom, ktory vyzvana a neda ti spat. Nacvicenym pohybom nohy ho nenechavas 
+dlho vyzvanat a skopavas ho z nocneho stolika.
+Uz nemas vela casu, musis urychlene vstat!
+
+&Spat! %2
+&Vstavat! %3
+
+~2 @Spat              
+Kasles na budik (i ked uz necenga) a zaspavas... Hups, to bol prikazovy pre-
+klep! Ved ty musis urychlene vstavat! A tak vstavas... :-)
+
+&Vstavat! %4
+
+~3 @Vstavat              
+Nemotorne sa snazis posadit na posteli, no gravitacia je silnejsia a ty opat 
+padas do postele. Je tu super - teplo a makko... tak naco vstavat, ked staci 
+zavriet oci a... Nie! Musis byt silny! Musis premoct unavu! Musis vstat!
+
+&Vstavat! %4
+
+~4 @Horesa              
+V kupelni sa rychlo davas dokopy, umyvas zalepene oci a rozcesavas hniezdo na 
+hlave. V kuchyni do seba este nalievas pol litra mineralky na vyschnute hrdlo 
+a finalne na seba navliekas lepsie handry.
+<Dnes je totiz Den D!>
+
+&Dalej %5
+
+~5 @Kapela
+Preco <Den D>?
+Dnes vecer o osmej totiz budu preverene tvoje schopnosti manazera mladej miest-
+nej rokovej kapely <Pathetic>, ktoru pred troma rokmi zalozili tvoji priatelia 
+a ty si prijal ich ponuku stat sa ich manazerom!
+A prave dnes odohraje <Pathetic> svoj prvy koncert a je len na vas, ako to ce-
+le dopadne.
+
+&Dalej %6
+
+~6 @Vonku
+Aby si bol vecer o osmej v co najlepsej forme, "hodil si si doma sorika", za-
+tial co tvoji kamosi usilvne skusali v skusobni.
+Je <16.00> a ty by si mal ist do skusobne za nimi, tak ako ste sa dohodli. Na 
+druhej strane dochvilnost nepatri medzi tvoje silne stranky...
+Stojis na polorozpadnutom socialistickom panelakovom sidlisku, ktoremu uz 17
+rokov hovoris domov. Skratka tu poznas vsetkych ludi, vsetci ludia tu poznaju
+teba :-).
+
+&Pobehnut do trafiky po fajcivo %7
+&Zbehnut za kapelou skusobne %105
+
+~7 @Trafika
+Pred koncertom bude este treba skludnit nervy, rozmyslas a kracas do blizkej 
+trafiky doplnit nikotin. Na sidlisku, kde byvas, je toto jedina trafika a tak 
+dufas, ze s tvojou (ne)plnoletostou nebude problem (ak si tu logicky kupuje 
+cigy cele sidlisko)... len aby.
+
+<"Co to bude?"> vrci na teba plesaty predavac, i ked rozmyslas, ci nepatri k 
+ochranke tohto podniku.
+
+&Marlborky a zuvacky %8
+&Marloborky a Playboya %13
+&Zuvacky %14
+
+~8 @Trafika2
+Od plesiny si si vypytal krabicku Marlboriek (nie si ziadny troskar) a zuvacky 
+(ale si opatrny). Predavac na teba uprel ladovy pohlad... rovnako ladovy pot 
+ti zatial tecie z kazdeho poru na tele...
+Slava! Predavac ti na pult hadze pozadovany tovar a pyta peniaze... Hups, pe-
+niaze! V panike dufas, ze si si penazenku vzal i napriek tomu, ze sa na to ne-
+pamatas... <A vrecka mas prazdne...>
+
+&Prezriet rezervu %9
+&"Tak nic." %12
+
+~9 @Rezerva
+Tvojou poslednou sancou na nikotin a zuvacky <Hubba-Hubba> sa stava tvoja ponoz-
+ka. Po svojej byvalke si zdedil zvyk schovavat si financnu rezervu do ponoziek.
+Pomaly, opatrne sa sklanas k noham, zatial co svalnac na teba prekvapene civi- 
+zjavne rozmysla, ci nema spod pultu vytiahnut bejzbolku. 
+Dvakrat slava! V lavej ponozke si okrem diery nasiel osemdesiat korun a dake dro-
+baky! To vsak nestaci na nakup cigariet i zuvaciek. Mozes si kupit iba jedno.
+
+&Zuvacky %10
+&Cigarety %11
+
+~10 @Iba zuvacky
+Rozhodujes sa pre vonave, zdrave, gumene zuvacky <Hubba-Hubba>... neboj,cigy 
+splasis niekde inde.
+
+&Dalej %105
+
+~11 @Iba cigy
+Vona a chut tabaku je silnejsia a lepsia ako dajake hnusne, gumene, umele thai-
+wanske zuvacky! A tak si z trafiky odnasas nadhernu, hranatu krabicku s napi-
+som  <"Marlboro" "Ministerstvo zdravotnictva varuje: fajcenie sposobuje smrt!">
+Zapalovac ti z trafiky netreba - mas pri sebe dva pazuriky, ktore si slohol v 
+muzeu.
+
+&Dalej %105
+
+~12 @Tak nic
+<"Tak nic,"> dodal si smutne a otocil si sa, ze odides. Ale plesatemu predavaco-
+vi sa zjavne ulutostilo mladeho fajciara, potencionalneho zakaznika do buduc-
+nosti a navrhol ti, ze ti da jeden "pakel" na sekeru. Potesil si sa a on ta za-
+viedol "dozadu" - do malej miestnosti spojenej s trafikou, kde ti predlozil z-
+mluvu, ktoru si musel podpisat krvou. Hlavne je, ze teraz uz mas svoje cigarety! 
+Podakoval si predavacovi, pochvalil jeho cervene kontaktne sosovky a s diabol-
+skym smiechom za chrbtom si spokojne z trafiky odkracal.
+
+&Dalej %105
+
+~13 @Playboy
+Hned ako si vstupil, vsimol si si v regali nove cislo Playboya prave s tvojou 
+oblubenou "modelkou" na obalke. Neodolal si a spolu s Marlbacmi si poprosil 
+predavaca aj o uz zmienovany casopis. Predavac sa najprv netvaril 2x nadsene, 
+ale ked si vyslovil to, prenho magicke slovo, <Playboy>, na plesatom cele sa
+zjavili kropaje potu, zornicky sa mu rozsirili a nohavice napli. Rychlo od te-
+ba zinkasoval peniaze a stratil sa niekde "vzadu"... 
+
+&Dalej %105
+
+~14 @Zuvacky
+Prepalujucim pohladom plesatca si sa nemohol ubranit a tak si nakoniec smutne 
+zasepkal <"Jedne zuvacky, prosim...">. Plesatec pochvalil tvoju investiciu a 
+dokonca tresol i daco o zdravi a boji proti rakovine. Cely smutny si vysiel z 
+trafiky, snaziac sa co najviac oddialit abstinencne priznaky.
+
+&Dalej %105
+
+~105 @Inga
+Na pred koncertom nervozny zaludok chces este hodit daku obzivu a tak sa vybe-
+ras do miestneho "fast-foodu" - malej bagetarne, kde vas obsluzia hned pri o-
+kienku, kedze tam nemaju nic ine :-). Toto oblubene restauracne zariadenia o-
+tvorila pred par rokmi slecna Ingrid - miestna "lovkyna skalpov" v najlepsich 
+rokoch, po ktorej prichode na sidlisko klesol pocet 17-rocnych panicov o polo-
+vicu. Prichadzas k okienku, za ktorym, na tvoje pocudovanie, nie je napchata 
+Inga, ale stoji tam sympaticke dievca, ktore si nikdy predtym nevidel.
+<"Co si das?"> pyta sa dievca.
+
+&Syrovu bagetu%106
+&Sunkovy sendvic%107
+
+~106 @Inga2
+<"Syrovu bagetu, prosim,"> hovoris a vytahujes svoje posledne peniazem, ktore 
+ti tvoj stary otec zanechal na studium.
+<"25,50,"> hovori dievca a podava ti bagetu.
+
+&"Si tu nova?"%108
+&"Kde je Inga?"%109
+
+~107 @Inga3
+<"Sunkovy sendvic,"> hovoris a vytahujes svoje posledne peniazem, ktore ti 
+tvoj stary otec zanechal na studium.
+<"29,50,"> hovori dievca a podava ti sendvic.
+
+&"Si tu nova?"%108
+&"Kde je Inga?"%109
+
+~108 @Dievca
+<"Si tu nova?"> pytas sa dievcata na okienku. Ma 16-17 rokov, blond vlasy a 
+zelene oci.
+<"Ano, patri to tu mojej tete a tak si tu privyrabam. Volam sa Lenka.">
+Ty hovoris svoje meno a pokracujes:
+<"A byvas tu?">
+<"V tejto budke :-) ?">
+<"Myslim sidlisko,"> objasnujes.
+<"Ano, asi dva tyzdne. Este tu nepoznam vela ludi.">
+<"Vies, manazujem jednu miestnu rockovu kapelu. Mame dnes prvy koncert - ne->
+<chces prist? O osmej v tej starej budove oproti skole.">
+<"No... neviem.">
+<"Prosim, prid.">
+<"Dobre,"> suhlasila Lenka nakoniec. <"Ale iba ak mi das svoje cislo!">
+S radostou si Lenke nadiktoval svoj telefon - hned na prvy pohlad sa ti totiz 
+strasne zapacila, co sa ti nestava casto.
+<"Musim uz ist. Prosim, prid vecer,"> rozlucil si sa a odchadzas.
+
+&Dalej%18
+
+~109 @Inga
+<"A kde je Ingrid?"> pytas sa sympatickej blondiny.
+<"Posmykla sa v sprche.">
+<"Chuderka...">
+<"Ten chalan je na tom horsie - lezal pod nou :-)...">
+
+&"Si tu nova?"%108
+
+~18 @Skusobna
+Konecne sa vydavas do skusobne, ktoru ma kapela na druhom konci sidliska, v 
+budove, v ktorej ma okrem tej tvojej skusobnu aj dalsich 5 kapiel z celeho si-
+dliska.
+Cestou do skusobne stretavas Dusana - opat zaseveseneho na nejakej predstavi-
+telke <nezneho pohlavia> a s prifajcenym usmevom na xichte.
+
+&"Zdarec" = rozhovor %19
+&"Cauko" = KEINE rozhovor%23
+
+~19 @Zdarec
+<"Zdarec!"> kricis na Duna uz zdialky.
+<"Cauko,"> podava ti Dusan ruku a ty z nej a z celeho Dusana citis tabakovu 
+aromu. Prave Dusan je hajzlik, co ta "naucil" fajcit...
+
+&"Nepredstavis nas?"%20
+&"Budes wecer na konzerte?"%21
+&"Ako zijes?"%22
+
+~20 @Holka
+<"Nepredstavis nas?"> kyvol si smerom k slecne.
+<"Nie!"> zarazil dievca Dusan. Zjavne ti stale neodpustil, ked si mu pred par 
+rokmi prebral dievca - bola to sice tazka krava, ale take veci sa <fakt> neod-
+pustaju! Mal by si sa hanbit...
+
+&Dalej%19
+
+~21 @Fest
+<"Budes vecer na koncerte?"> vyzvedal si.
+<"Daco som uz o tom pocul, ale... pridem, az ked sem dotiahnete Kabat!">
+dodal Dusan sarkasticky, ako velky <Kabatista>. 
+Nastastie dievca po jeho boku vyzeralo, ze ma srdce na spravnom mieste a par
+kopancami a stuchancami donutila Dusa, aby ti potvrdil svoj prichod.
+
+&Dalej%19
+
+~22 @Jaksmas
+<"Ako zijes?"> pytas sa, kedze si Dusana uz dlho nevidel.
+Dusan neutralne kyvol hlavou, no ked zbadal tvrdy pohlad svojej partnerky, ry-
+chlo a horlivo prikyvol. Narazil si teda riadnu Dominu...
+
+&Dalej%23
+
+~23 @Majsa
+<"Cau!"> zazelal si Dusanovi, provokativne si donjuanovsky si zmurkol na jeho 
+doprovod a pokracoval si v ceste do skusobne.
+
+&Dalej%24
+
+~24 @Skusobna
+Po par minutach cesty si dosiel az na daleky koniec sidliska k skusobni. Pred-
+ny, velky vchod bol este uzamknuty, aby nikto nevyrusoval kapely pred koncer-
+tom. Obisiel si preto celu budovu a klucom si si odomkol zadny vchod. Za dve-
+rami si vybehol po schodoch az na poschodie, odkial sa uz ozyvali <zvuky e->
+<lektrickej gitary a bici - kapela uz horlivo skusala...>
+
+&Dalej%25
+
+~25 @Gitara
+Zatlacil si na tazke dvere a ocitol si sa v malej miestnosti so stenami oblepe-
+nymi kartonom a krabicami od vajec (kvoli odzvuceniu).
+V skusobni si nasiel vsetkych troch clenov kapely Pathetic - Robo vybrnkaval na
+gitaru a sem-tam daco zaspieval, Tono sedel za bicimi a rozhrieval sa a Palo...
+...Palo sedel na repraku, nozikom si narezaval a jedol ementalovy syr!
+
+&Sprdnut ho%26
+&Kaslat nanho%27
+
+~26 @Sprdnut Pala
+Ako manazer kapely si Pala okamzite sprdol:
+<"Mozes mi povedat, preco neskusas s kapelou?!">
+<"Jak to so mnou rozpravas, kreten?!"> skocil do teba Palo s nozom v ruke a sy-
+rom v hube. <"Kto si myslis, ze si?!">
+<"Kurva, ved som vas manazer! Dnes mate prvy koncert, kazdy skusa az na teba,>
+< lebo ty tu sedis jak kokot a zeries syr! Tak mi to vysvetli!">
+<"Jednoducho mi na stanici slohli basu! Spokojni?! JENODUCHO NEMAME BASGITARU.">
+
+&Dalej%28
+
+~27 @Kaslat nanho
+Povedal si si, ze sa na Pala a jeho skusanie mozes vakaslat a ze je to vlastne
+jeho vec.
+<"Mame problem,">oznamil ti ale Palo smutne. <"Na zeleznicnej stanici mi slo->
+< hli basu...">
+<"A do riti,"> povedal si si a chytil si sa za hlavu.
+
+&Dalej%28
+
+~28 @Mobil
+<"A co teraz?!"> opytal si sa. Stali ste pred vaznym problemom - bez basy nemo-
+zete hrat a bez hrania nebude vasa prva sanca ukazat ludom, ze tri roky strave-
+ne po skusobniach neboli mrhanim.
+<"No, ved na teba cakame,"> povedal Palo. <"Musime si dajaku basu poziciat.">
+<"A od koho? V celej budove nie je okrem nas nikto! Musime obvolat ostatnych>
+< muzikantov na sidlisku... Tak to nechajte na mna,"> povedal si hrdinsky.
+Obvolat tolkych ludi a zohnat solidnu basgitaru, pricom do koncertu vam ostava-
+ju 4 hodiny - to bude makacka.
+A tak, len s mobilom v ruke vychadzas na chodbu...
+
+&Dalej%29
+
+~29 @Mobil2
+Tu mas zoznam potencionalnych majitelov basy. Ktoremu chces zavolat?
+
+&Majo%33
+&Rudo%30
+&Pali%31
+&Dodo%32
+
+~33 @Majo
+Skusas stastie a volas Maja, basaka v kapelke The Rock Show:
+<"Cau kamo, co treba?"> zodvihol ti Majo.
+<"Cau, surne potrebujem basu pre Pala, lebo tu jeho mu slohli na stanici.>
+< Mozes mi pomoct?">
+<"Sorry, kamo, ale ja nemam vlastnu basofku od Noveho roka - poziciavam si>
+< jednu od Peta z Hot Dogu.">
+<"Viem, viem. A Peto by nam ju nemohol pozicat?">
+<"Sklamem ta - Pepe je uz dva mesiace v Anglicku a basu bral so sebou. So->
+< rrac!">
+<"To nic, maj sa!">
+<"Takze konzert vecer nebude?">
+<"Ked nezozeniem basu, tak nie. Maj ho!">
+<"Cau!">
+
+&Dalej%29
+
+~30 @Rudo
+Skusas zavolat <Rudimu z punkovej kapely Rododendron>...
+                     ........
+Rudo vsak nedviha... smola.
+
+&Dalej%29
+
+~31 @Pali
+Vytacas Pala, basaka z Dreamera:
+<"Pali, cau, to som ja - potrebujem zohnat basu pre Pala z Pathetiku. Tu>
+< jeho mu dnes na stanici slohol dajaky kreten a my dnes mame ten koncert.">
+<"Ja ti nemozem pomoct, ale poznam typka, co poziciava instrumenty kapelam>
+< po celom sidlisku...">
+<"Super, Pali, zachranil si nas! Nadiktuj mi cislo a ja mu zavolam.">
+<"Ten chlapik byva na Rohonovej ulici, vchod vedla toho kadernictva. Chod>
+< rovno za nim a povedz mu, ze ta posielam. Vola sa Dusek, Jaro Dusek.">
+<"Diky, Pali. Vecer prid na koncert, ze by som ti mohol kupit pivo!">
+<"V pohode. Cau.">
+<"Cauko!">
+
+&Dalej%49
+
+~32 @Dodo
+Vytocil si cislo na <Doda, basaka skupiny Cigaro>...
+Dodo ti zdvihol, ale ked si v telefone zacul zvlastne vzdychy a vykriky,
+zlozil, aby si nevyrusoval (i ked je pravda ze si nezlozil hned :-)).
+
+&Dalej%29
+
+~49 @Prachy
+Chalanom v skusobni si rychlo oznamil, ze si zohnal adresu cloveka, ktory
+vraj poziciava nastroje kapelam na celom sidlisku. Prachy na basu vytiahnes
+z fondu kapely - kde mate 53 Korun a 20 Halierov, ktore ste usetrili pri pive..
+
+&Dalej%34
+
+~34 @Hlada sa dusek
+Vyliezol si z budovy a na ulici si zahol doprava ku kadernictvu <ZUZA> 
+na Rohonovej ulici - prave tam ma byvat vasa posledna sanca - <Jaroslav Dusek>.
+V rychlosti si otvorenymi dverami nazrel do kadernictva vybudovaneho hned
+vedla vchodu. kde ma Dusek byvat.
+Z kadernictva na teba zazerali dve starsie zenske a jedna mladsia s far-
+biacimi papierikmi na vlasoch. Mlada kadernicka sa zatial chytala za hlavu, 
+zatial co panej s papiermi tie papiere davala dolu a spod papierikov svie-
+tili chumace <zelenych> vlasov. Nuz... imidz je imidz.
+
+&Zazvonit Dusekovi%35
+
+~35 @Zazvonit Duskovi
+Na vchodovom zvonceku si nasiel cedulku <J.Dusek> a stlacil si zvoncek. Nic 
+sa nedialo a tak si stlacil este raz... opat nic. Nastastie si miestny a tak 
+si vedel, ze niektore vchodove dvere sa nezamykaju... Mas stastie, ze ani 
+tieto...
+
+&Najst Duseka%36
+&Navstivit kadernictvo%40
+
+~36 @Dusek1
+Vzal si to schodiskom, aby si nasiel Dusekove dvere - tie si nakoniec na-
+siel na tretom. Zazvonil si... a opat nic! Do riti! Dusek je vasa jedina
+sanca!
+
+&Zvonit dalej%37
+&Zazvonit u susedov%38
+
+~37 @Dusek2
+Rozhodne si to nevzdal a stlacal si zvoncek v rychlo tempe dufajuc, ze 
+Dusek len spi...
+Po chvili zacalo tvoje vyzvananie vyrusovat susedov, ktori ti cez kukatko 
+oznamili, ze <"bud zdvihnes svoju bielu rit"> alebo na teba zavolaju 
+<"pojebanych fizlov">. Radsej si posluchol a vytahom si sa zviezol na pri-
+zemie (cestou si vo vytahu fixou nechal Dusekovym susedom odkaz: 
+                       <"KOKOTOM NA TRETOM!">).
+
+&Dalej%39
+
+~38 @Susedia
+Nechal si vyzvananie Dusekovi vyzvananim Dusekovi a radsej si zazvonil na dve-
+re jeho susedov. Otvoril ti starsi chlapik v tielku a spodkoch a s pivnym dy-
+chom. Slusne si sa ho opytal, ci nevie, kde je pan Dusek. Starsi pan ti slusne
+odpovedal <"ze on, kurva, neni zadna informacna budka">. Nastastie sa do toho
+vlozila jeho manzelka, ktora ta poslala dolu do kadernictva, kde ma pracovat
+Dusekova neter.
+
+&Ist do kadernictva%40
+
+~39 @Dolu
+Vysiel si pred vchod a nevies, co teraz urobis. <Tu basu FAKT potrebujes!>
+Rozhodol si sa, ze sa este skusis spytat v kadernictve. Potom sa na to vy-
+kasles.
+
+&Dalej%40
+
+~40 @Kadernictvo
+Bielymi, zatazenymi dverami polepenymi plagatmi ohladom vlasov si sa dostal do
+maleho kadernictva Zuza. Pani s farbiacimi papierikmi na vlasoch, ktoru si vi-
+del pred chvilou, teraz cosi ziapala na mladu kadernicku, ukazujuc si pri tom
+na svoje zelene kucery.
+<"Prepacte,"> zacal si a po pol hodine, co imidzacka so zelenym harom konecne
+vypadla, si pokracoval: <"Neviete nahodou, kde je pan Dusek z tretieho poscho->
+<dia? Byva tu vo vchode, tak ma napadlo, ze sa tu mozno chodil strihat.">
+<"Mas stastie,> povedala ti kadernicka. <"Pan Dusek je moj stryko. Vravis, ze>
+< nie je doma? A co od neho potrebujes?">
+
+&"Chcem si vypoziciat basgitaru"%41
+&"Chcem si VYZDVIHNUT basgitaru"%42
+
+~41 @Kadernictvo2
+<"Chcem si od neho vypoziciat basgitaru.">
+<"Ano, stryko poziciava hudobne nastroje, ale je mi luto - ak nie je doma, ja>
+< ti tu gitaru poziciat nemozem...">
+Zacal si kadernicku a neter Duseka upenlivo prosit, no ona bola neoblomna...
+Pokazil si to - stacilo to trochu upravit a uz si tu basu mohol mat... pako...
+
+Nastastie pred kadernictvom stretavas podivneho, bradateho chlapa s ruskym pri-
+zvukom. Ked Rus videl, aky si sklesly, opytal sa ta, coze ta trapi. Vyrozpraval
+si mu o svojom trapeni a on ti slubil, ze ti pomoze. Predstavil sa ako Santu-
+sov, profesor Santusov, zaviedol ta do svojej garaze a strojom casu ta vratil 
+o pat minut dozadu. Stihol si mu este zakricat, ze je najvacsi kokot akeho v 
+Zime vymysleli...
+
+&Dalej - vlastne spat%40
+
+~42 @Kadernictvo3
+<"Chcem si VYZDVIHNUT basgitaru,"> tvrdis kadernicke a presviedcas ju, ze s Du-
+sekom mas termin, inak si od neho mozes ziadat penale.
+Nakoniec si mladu kadernicku presvedcil - vzala svoje kluce, medzi ktorymi mala
+i kluc od strykovho bytu - vysli ste na tretie a ona odomkla.
+S neprijemnym zapachom valiacim sa z bytu prislo i podozrenie, ze Jaroslav Du-
+sek uz vela gitar nepozicia - lezal rozlozeny v kresle... mrtvy.
+Zatial co Dusekova neter zavyjala na celu bytovky, ty si rychlo uchmatol jednu
+basu, opretu o stenu v obyvacke a ako bonus penazenku z botnika.
+Tym si vyriesil i problem z basou i s fondom...
+
+&Dalej%43
+
+~43 @Budova
+S pocitom vitazstva si sa vratil do skusobne - <s novou basou> a piatimi litrami
+v korunach vo vrecku... Cela kapela ti dakovala a slubila basu piva, ty si sa
+vitazoslavne usmieval a kyval na strany.
+Teraz, ked uz Palo konecne ma basgitaru, rozhodol si sa kapelu nevyrusovat a
+poprechadzat sa po budove, ktora na dnesny vecer patri kapele...
+
+&Ist omrknut salu%44
+&Vlupat sa do kostymerne%52
+&Vratit sa do skusobne%58
+
+
+~44 @Sala
+Rozhodol si sa omrknut salu, kde vecer kapela bude hrat. Hlavne vchodove dvere
+boli aj teraz, rovnako pri tvojom prichode, uzamknute, no sala uz bola vyzdobe-
+na na vecer, vdaka vasim kamaratkam...
+Vrzavymi, drevenymi parketami si presiel az k asi meter vysokemu podiu. Repraky
+uz boli zapojene, no kapele sa stale nechcelo stahovat ostatne vybavenie zo
+skusobne a tak tam radsej este zostala.
+V tom ta uputal <svetielkujuci jukebox>, zastrceny v rohu, ktory zjavne zabudli
+majitelia vypnut. Rozhodol si sa, ze uz pojdes, ale... ten jukebox a jeho svet-
+la ta dakou tajomnou magiou nutili vhodit don mincu a vypocut si dajaky song.
+Ponuka jukeboxu je nasledovna:
+
+&Ine Kafe - Ako Idiot%45
+&Horkyze Slize - Logicka Hadanka%47
+&Hex - V Piatok Podvecer%50
+&Koniec%43
+
+~45 @Ine Kafe
+
+<Ine Kafe - Ako Idiot>
+
+Ludia vokol mna, su vsetci spravni, 
+denne presviedcaju ma o svojich kvalitach,
+su spolahlivi, mudri, dobroprajni,
+ochotni odpovedat, ked sa nieco pytam,
+
+nerobia chyby a su vo vsetkom rychli,
+pocit ich z dobre vykonanej prace zenie vpred,
+konaju vecne a vsetko podla planu,
+ja sa len cudujem a marne zhanam odpoved
+
+moj ripad zda sa je tak trochu iny
+zdaleka nevyrovna sa vyssie uvedenym
+dal by sa nazvat stoperctentne pravy opak
+ale to zrejme nie je mojim ospravedlnenim
+
+&Pokracovanie%46
+
+~46 @Ine Kafe2
+nech robim, co chcem vzdy som dokonale iny,
+tak iny, ze tomu uz ani ja sam nechapem
+a ked to vsetko takto kazdodenne vidim,
+obcas sa neubranim jednej vaznej otazke
+
+preco ma nutite  byt ako idiot,
+ja nie som na klucik tak ako vy,
+na sebe nevidim  nic zle a  naopak,         
+pripadam si navyse uplne normalny
+
+mam s tym vraj prestat
+a spravat sa ako clovek
+a mam sa poriadne vraj poobzerat dokola,
+vsimnut si triky ktore dneska vladnu svetom
+a vraj bude zo mna zaraz kazda hotova.
+
+Ja vsak neviem ci mam tomu vazne verit,
+uz mi to aj tak cele nejak cudne pripada,
+preco sa cely zivot mam na nieco tvarit,
+ostava pre mna nadalej len a len zahada!
+
+&Dalej%44
+
+~47 @Horkyze
+<Horkyze Slize - Logicka Hadanka>
+
+Uprostred Sahary lezi holy chlap, holy chlap.
+Vokol ziadne stopy, iba plno siat, plno siat.
+Plno siat a jedna kratka zapalka, zapalka.
+Logicka hadanka!
+
+Je ten chlapik mrtvy?        Ano.
+Zabili ho?        Nie.
+Spachal samovrazdu?        Ano.
+Zastrelil sa?        Nie.
+Smrt nastala padom?        Ano.
+Z vrtulníka?        Nie.
+Z rogala?        Nie.
+Z balona?        Ano.
+Jasny debil!        Nie!
+
+&Pokracovanie%48
+
+~48 @Horkyze2
+Bol tam este niekto?        Ano.
+Hadali sa?        Nie.
+Balon zacal klesat?        Ano.
+Vznikol poziar?         Nie.
+Pokazil sa horak?        Nie, to nie je podstatne.
+Vyhadzali saty?        Ano.
+Aj zapalky?        Nie!
+
+Vsetci zapli mozgy na plne obratky.
+Rozhodli sa obetovat jedneho z posadky.
+Ten, kto si vytiahne najkratsiu zapalku, 
+s gestom velkeho hrdinu zamava na dialku.
+
+Vies ty, vobec, kto su to ti inteligenti?
+Neviem, aj keï zabijes ma, tak nepoviem ti.
+
+&Dalej%44
+
+~50 @Hex1
+<Hex - V Piatok Podvecer>
+
+Pondelok byva nekonecny, len tak
+s pohladom sfingy nad pracou spim,
+no ale cez vikend bol
+este nadherny svet.
+
+Zivotom plavam a netusim kam a s kym,
+ja nemam ziadny harmonogram,
+no ale cez vikend mam
+vzdy nadherny svet.
+
+V piatok podvecer si zresetujem hlavu,
+mozno, ze tak najdem aj myslienku zdravu,
+ved to je jedine co nas vsetkych bavi,
+v piatok si realitu odstranit z hlavy do zil.
+
+&Pokracovanie%51
+
+~51 @Hex2
+
+To predsa nie som skutocne ja a kto,
+ten co tu sedi a zaujem hra,
+no ale cez vikend bol
+este nadherny svet.
+Zivotom plavam a netusim kam a s kym,
+ja nemam ziadny harmonogram,
+no ale cez vikend mam
+vzdy nadherny svet
+
+V piatok podvecer si zresetujme hlavy,
+mozno, že sa najde v jednej rozum zdravy,
+ved to je jedine co nas vsetkych bavi
+v piatok si realitu odstranit z hlavy do zil.
+
+&Dalej%44
+
+~52 @Kostymerna
+Tulanim sa po chodbe si nasiel zvlastne, zamknute dvere s cedulkou <KOSTYM RNA>.
+Vedel si, ze sa tu kedysi hravalo divadlo, ale o kostymerni si nikdy nepocul...
+Kvoli zvlastnej aure, prenikajucej od dveri, si od kostymerne nemohol odlepit
+oci. Zacalo ta zaujimat, co presne sa skryva za dverami a to, ze su zamknute,
+si vobec nevidel ako prekazku.
+
+&Vykopnut dvere%53
+&Skusit najst sponku alebo drot = pakluc%54
+
+~53 @Kostymerna2
+Vobec si sa so zamknutymi dverami nesral a rovno si ich vykopol (mas prax z
+kazdodenneho skopavania budika) - zamok zostal v stene a prehnite dvere vle-
+teli dnu...
+
+&Preskumat staru kostymernu%55
+
+~54 @Kostymerna3
+Rozhodol si sa ist na zamok rafinovane - na co staci obycajny drot alebo sponka
+do vlasov, ktoru najst v budove plnej chlapov nebol problem :-).
+Asi polhodinu si sa sponkou sprtal v zamke, skusal si vselijako ohynat a za-
+hybat, no zo zamkou ani nehlo... Dodal si si trpezlivosti, ze uz to skoro mas
+a po dalsej polhodine si sponku rozhryzol na kusky a dvere vykopol.
+
+&Preskumat staru kostymernu%55
+
+~55 @Kostymerna4
+Ocitol si sa v starej, prasnej kostymerni... Plesnive, zaprasene parochne boli
+povesane na dlhom vesiaku a vytvarali dojem hlav naskladanych pred gilotinou
+po poprave. V hromade starych kostymov nahadzanych na kope vpravo pocujes pis-
+kot potkanov. A k tejto strasidelnej atmosfere tmavej kostymerne este tichy
+hlas, sepkajuci tvoje meno...
+
+&"Kto je tam?"%56
+&Utiect (to sa ti iba zda)%57
+
+~56 @Kostymerna5
+<"Kto je tam?"> kricis v panike do tmy, z ktorej si pred chvilou pocul sepot
+svojho mena.
+<"To som predsa ja..."> sepka opat hlas.
+<"Pani triedna ucitelka?"> hadas.
+V tom sa zo sera vynorila strasidelna postava, tebe znama kreatura zeny:
+<"Ty si ma este pamatas?"> krici natesena ucitelka a kriva k tebe, pri com
+na teba ceri zlte, prezrate zuby.
+<"Ale co tu robite, pani ucitelka?"> pytas sa monstra a pomaly cuvas k dve-
+ram - mozno este stihnes utiect a opat tu uzamknut ono strasne zlo.
+<"Bola som uzamknuta na veky - ale ty si ma zachranil! Dakujem ti!">
+Dalej uz nevahas, otacas a utekas von. Rozbite dvere rychlo zatvaras a blo-
+kujes ich stolickou z chodby. Ucitelka trieska na zablokovane dvere a preklina 
+ta... Uff, toto bolo o chlp! Ale opat si zachranil tento svet!
+
+&Dalej%43
+
+~57 @Kostymerna6
+Otacas sa a rychlo utekas z dveri na chodbu. Odtial vidis groteskne monstrum
+s prehnitymi zltymi zubami, ako vylieza z tmy a spoznavas v nom svoju byva-
+lu triednu ucitelku.
+<"Odid, Satanas!"> kricis na kreaturu a vrazas do nej rozbite dvere. Diabol-
+sky krik sa ozve kostymernou - Diablova sestra (ako ste ucitelku prezyvali
+pocas jej posobenia) dostava ranu dverami do hlavy. Rozbite dvere rychlo za-
+tvaras a blokujes ich stolickou z chodby. Ucitelka trieska na zablokovane 
+dvere a preklina ta... <Podarilo sa ti opat uzamknut ono velke zlo...> az na
+veky vekov...
+
+&Dalej%43
+
+~58 @Skusobna2
+Po exkurzii si sa vratil do skusobne, kde uz na teba cakali Tono a Palo a
+divne na teba pozerali.
+<"Co je?"> pytas sa. <"Kde je Robo?">
+<"Prec..."> znela Palova odpoved.
+<"Prec? Kde prec?">
+<"Rozisla sa s nim frajerka... a on idisiel..."> hovori ti Palo.
+<"Kde preboha?! A to ste ho nezastavili?"> Tono ti kyvol, ze hej a ty si
+si vsimol velku podliatinu pod jeho okom.
+<"Musime ho najst..."> rozhodol si, tusiac, ze s Robom je zle a vybehol 
+si von.
+
+&Patracka%59
+
+~59 @Robo
+Stojis vonku, pred skusobnou. V mysli uz mas zoznam miest, kam Robo i je-
+ho depresia mohli ist:
+
+&Most nad riekou%60
+&Kolajnice%62
+&Robov byt%67
+&Krcma Krigel%70
+
+~60 @Most
+Najprv to najhorsie - hovoris si a myslis na most nad riekou. Ten sa na-
+chadza medzi sidliskom a mestom.
+Po desiatich minutach prichadzas k betonovemu mostu, vypinajucemu sa nad
+rozburenymi vlnami rieky.
+<"Robo! Stoj!"> kricis z dialky, len co vidis postavu pripravenu na skok.
+Po par sekundach zbesileho behu stojis pred starsim panom vo sviatocnom
+obleceni, ako rozpazenymi rukami stoji na muriku.
+<"Ja-ja vazne skocim!"> presviedca ta pan.
+
+&"Vy nie ste Robo!"%61
+
+~61 @Most2
+<"Vy nie ste Robo!"> karhavo kricis na samovraha.
+<"To teda nie,"> kruti hlavou pan. <"Nikoho takeho nepoznam. Vlastne...>
+< ja nepoznam vobec nikoho! Som tak sam, chlapce! Budes moj priatel?!">
+Podakoval si za ponuku a radsej si od toho podivina odisiel. Zdialky si
+uz potom len videl, ako sa vrha do vln zafarbenych komunalnym odpadom.
+
+&Hladat Roba inde%59
+
+~62 @Kolajnice
+Vybral si sa Roba hladat na vyhlaseny kolajnicny usek, kde si pod kole-
+sa vlakov lahaju samovrahovia z celej Europy (kvoli tomu musia mat vla-
+ky podla specialnej vyhlasky stierace - prejst kazdu minutu jedneho sa-
+movraha, to nie je len tak).
+Dnes je tu ale celkom prazdno - osobne vlaky uz isli a nakladne nie su
+medzi oblubitelmi tohto sportu tak oblubene.
+Vidis iba jedneho chlapa. Uz zdialky vidis, ze to nie je Robo, ten ale
+moze byt na blizku.
+
+&"Nevideli ste tu...?"%63
+
+~63 @Kolajnice2
+<"Prepacte, nevideli ste tu nahodou vyssieho chlapca, s ciernymi vlas->
+< mi a kozenou bundou?"> pytas sa chlapika - o nieco starsieho od teba.
+Chlapik pokrutil hlavou a naspat si lahol na kolajnice.
+
+&"No nic, dakujem vam."%64
+&"Prepacte, ale robite to zle."%65
+
+~64 @Kolajnice3
+<"No nic, dakujem vam,"> podakoval si.
+<"Nemate zac,"> povedal chlapik. V dialke sa ozvalo trubenie vlaku,
+chlapik sa prezehnal a ty si sa radsej vzdialil.
+
+&Hladat Roba inde%59
+
+~65 @Kolajnice4
+<"Prepacte, ale robite to zle,"> poradil si chlapikovi.
+<"Preco myslite?">
+<"Radsej si lahnite napriec kolajnic, nie pozdlz - takto sa vas nemu->
+< si ani dotknut..."> poradil si.
+<"Mas v tom dajaku prax?"> vyzveda chlapik a dviha hlavu, aby ta lepsie
+videl.
+<"Nie, ale...">
+<"Neboj sa, ja sa nechcem zabit,"> prekvapil ta chlapik leziaci na ko-
+lajniciach. <"Som totiz jediny clovek na svete, ktory dokaze z kolaj->
+< nic pluvnut na znacku vlaku na lokomotive! Ako hovorim - som jediny>
+< na svete - vies, v tej rychlosti, ako vlak ide a este priamo nad te->
+< bou, to nie je vobec lahke!">
+<"Ano,"> prikyvol si. <"Myslim, ze to robil Rudolf Hrusinsky vo filme>
+< Knoflikari...">
+<"Pche, filmovy trik!"> nedal sa chlapik.
+<"Myslite?"> nedal si sa ty.
+<"Urcite! JA som JEDINY!">
+
+&"Dovidenia!"%66
+
+~66 @Kolajnice5
+<"Dovidenia!"> rozlucil si sa.
+<"E.. dovidenia, dovidenia,"> rozlucil sa znacne vyvedeny z miery chla-
+pik. Zdialky si uz len videl, ak predsa len dava na tvoju radu a pred
+prichodom vlaku si laha priecne...
+
+&Hladat Roba inde%59
+
+~67 @Domov
+Vydal si sa k Robovi domov, necele tri bloky od tvojho vchodu. Nane-
+stastie, vchodove dvere boli zamknute (neznasas ludi co zamykaju, le-
+bo su slusni). Co teraz?
+
+&Zazvonit Robovi%68
+&Zavolat Robovi na mobil%69
+&Hladat Roba inde%59
+
+~68 @Domov2
+Skusil si Robovi zazvonit jeho vchodovym zvoncekom... bez vysledku.
+
+&Zavolat Robovi na mobil%69
+&Hladat Roba inde%59
+
+~69 @Domov3
+Vytocil si Robove cislo, vypocul si vyzvananie a na zaver pipnutie a spravu
+<"Hovor je obsadeny">. Asi 5x.
+Na siesty krat ti vsak Robo zdvihol:
+<"Co je?!"> zreval do telefona.
+<"Robo! Kde si!">
+<"Nikde...">
+<"Robo, kde si?!">
+<"Nikde! Co si moja matka?!">
+<"Ked si daco urobis... doktori ta daji dokopy a zabijem ta ja! Rozumel si?!">
+<"Rozumel." - - - - - ->
+
+&Hladat Roba inde%59
+
+~70 @Krigel
+Pomyslel si si, ze predsa nebude tak zle a vydal si sa Roba hladat do Krigla. 
+Krigel je budka, akych su v mestach stovky,kde "na stojaka" stoja chlapi, vra-
+cajuci sa z sichty domov, a bezdomovci, postavajuci pri flasi cuca.
+Teraz bolo pred Kriglom plno - je predsa piatok, nieco po siedmej. Stara ne-
+pekna zenska rozdava a inkasuje flasky s pivom a flirtuje s ozratymi stamgas-
+tami.
+A prave uprostred tohto zhonu vidis na zemi lezat az neprijemne znameho clove-
+ka - v tomto stave skor zviera. Robo, zjavne ozraty ako delo, lezi vedla budky
+s bundou pod hlavou. Znackove topanky uz asi zdobia nohy stastneho bezdomovca.
+
+&Prebrat ho (aspon sa o tom pokusit)%71
+
+~71 @Rob
+Parkrat si Roba prepleskal po tvari a zahucal mu do ucha - nic. Spi ako zare-
+zany... aspon dycha.
+Zavolal si taxi a pocas cakania sa Robo prebral:
+<"Co-to, kde-to?">
+<"Nie si ty kokot?"> kricis nanho.
+<"Co-co?">
+<"O hodinu hrate... a ty este spievas! Kvoli jednej pici potopis celu kapelu?!">
+<"Ked... ona bola vynimocna..."> Robovo vysvetlovanie prerusuje Robovo grcanie 
+a prichod taxika.
+
+&Do taxi!%72
+
+~72 @Rob2
+Napriek taxikarovmu drzkovaniu si ztikovaneho Roba nalozil na zadne sedadlo a
+ty si si odovzdane sadol vedla neho. Pocas cesty, nastastie, netikoval, zato
+si to plne vynahradil, len co vas taxikar vyhodil pred skusobnou.
+Tam uz na vas cakali ostatny clenovia kapely a ludia, co vam pomahali kon-
+cert organizovat.
+Zatial co dievcata Roba v skusobni kriesili, ty a zvysok kapely ste sa zisli
+na vojnovej porade. Problemy s Robom sa totiz neskoncili jeho privlecenim,
+kedze pri Robovom stave sa o koncerte zatial hovorit nedalo.
+<"Tak, co teraz,"> pyta sa ta Palo. <Do koncertu zostava uz len hodina!>
+Po chvili rozmyslania si rozhodol:
+<"Idem do lekarne kupit Robovi antietanolove tabletky... na odburanie chla->
+<stu... vy ho zatial nalejte kavou!">
+<"Antietanolove tabletky???">
+Nemal si ale cas na vysvetlovanie a bez slova si vybehol zo skusobne.
+
+&Do akcie!%73
+
+~73 @Anti
+Vdaka svojej brigade v lekarni tvojho stryka, ktoru si za mizerne prachy 
+musel absolvovat, vies, ze existuju tabletky na odburavanie alkoholu v kr-
+vi, takzvane antietanolove tabletky. Dufas, ze sa ti ich podari zohnat i v
+takomto zapadakove a hlavne este pred koncertom.
+Pokial vies, tak na sidlisku je len jedina lekaren - dufas, ze si dobre pa-
+matas kde sa nachadza a ze este bude otvorena...
+
+&Do lekarne%74
+
+~74 @Lekaren
+<'Tak toto je koniec,'> hovoris si, len co prichadzas k lekarni - lepsie 
+povedane novucickej drogerii <Marcelka>. 
+Ani sa nepozastavujes nad imbecilnym nazvom a rychlo vchadzas dnu. Medzi 
+regalmi zapratanymi vsetkym moznym i nemoznym sa ti po chvili patrania po-
+darilo najst staru predavacku s obrovskou zubnou protezou v drzke.
+
+&Zistit, kam zmizla lekaren%78
+&Nakupit%75
+
+~75 @Lekaren-nakup
+Svoju pritomnost v drogerii <Marcelka> si sa rozhodol vyuzit na nakup a in-
+formovanie sa v oblasti cistiacich trendov. Predavacka ti velmi ochotne, po-
+hravajuc sa zatial so svojou zubnou protezou, ukazala vsetky novinky na trhu.
+Samozrejme nezabudla spomenut uz osvedcene produkty, ktore dnes uz nesmu chy-
+bat v kazdej domacnosti.
+
+&Kupit avivaz Skin Proper - family pack%76
+&Kupit toluen znacky Pedro el Negro (Cierny Peter)%77
+&Zistit, kam zmizla lekaren%78
+
+~76 @Proper
+Neodolal si a poziadal si predavacku o rodinne balenie avivaze <Skin Proper>
+<- avivaz pre bielu kozu> za 56,50 Sk, ku ktoremu si dostal i prirucny boxer 
+z kalenej ocele. Ten si zahodil, kedze by ti bol k nicomu.
+
+&Konecne zistit, kam zmizla lekaren%78
+
+~77 @Pedro
+Predavacku si poprosil o flasku toluenu <Pedro el Negro - Cierny Peter>. 
+Jej zubna proteza ti oznamila, ze mas na vyber dva druhy - <Pedro el Negro:> 
+<Haluz> a <Pedro el Negro: Zaluzie>.
+Rozhodol si sa pre druh Zaluzie, ktory od teba pred drogeriou vymamili 
+dvaja miestni bezdomovci Rufus a Donny.
+
+&Konecne zistit, kam zmizla lekaren%78
+
+~78 @Kde je lekaren
+<"Neviete, co sa stalo s lekarnou, ktora tu bola kedysi?"> opytal si sa 
+predavacky.
+<"Prestahovala sa do mesta,"> oznamila ti predavacka a v tej chvili si 
+mal obrovsku chut napchat jej tu jej sloniu protezu do krku...
+<"Coze?!">
+Predavacka prikyvla a popisala ti, kam presne sa lekaren prestahovala. 
+Vysiel si teda pred drogeriu. <Tie tabletky jednoducho potrebujes!> A 
+tak sa musis dostat do mesta:
+
+&Autobus%79
+&Taxi(bus)%96
+&Peso(bus)%94
+
+~79 @Bus
+Autobus ti prisiel ako najlepsie riesenie tvojho problemu, kedze jedna 
+zastavka stala hned za rohom drogerie a ta druha stoji pri mieste, kde 
+ma stat lekaren. Na zastavke si zistil, ze najblizsi autobus ide o stvrt-
+hodinu.
+
+&Pockat si%80
+&Taxi(bus)%95
+&Peso(bus)%94
+
+~80 @Bus1
+Stvrthodina ti neprisla ako dlha doba a tak si sa rozhodol si na ten auto-
+bus pockat. Pocas tvojho cakania sa na zastavku zacali zgrupovat rozni ludia:
+- jedna mlada pani s dcerkou preskolskeho veku, ktora usilovne plakala a po-
+zadovala topanky od Versaceho, na co jej matka oponovala, ze jej kludne staci 
+Gucci
+- postarsi pan s ohromnym kufrom, v ktorom sa okrem ludskeho tela mohlo nacha-
+dzat len ludske telo :-)
+- asi dvadsatrocna dlhonoha kocka, ktora pri svojom prichode kruzivymi pohyb-
+mi zadocka sposobila taky prievan, az chlapovi s batozinou odleteli falosne 
+fuzy
+
+&Nadviazat rozhovor%81
+&Zavolat na skusobnu%80
+&Cakat%92
+
+~81 @Bus2
+Nahle ta bez akehokolvek varovania prepadlo nutkanie spoznavat a zdruzovat 
+sa (radsej by si s tym mal zajst za doktorom... alebo do odborov). 
+Prosim, vyber si svoju obet:
+
+&Nobl pani s dcerkou%82
+&Chlapik s obrovskou batozinou%85
+
+~82 @Pani
+Uz len samotny zjav matky i dcery ta primal k nadviazaniu rozhovoru. Pri-
+stupil si k nim a prihovoril si sa im:
+<"Prepacte, ale zachytil som vas rozhovor - musim jednoznacne potvrdit,>
+<ze Gucci je oproti Versacovi vietnamsky predavac textilu.">
+<"VersacEMU,"> opravila ta pani, no i tak sa afektovane zasmiala.
+<"Zaujimate sa o modu, mlady muz?"> opytala sa ta panicka.
+
+&Pokracovat%83
+&Povedat pravdu%84
+
+~83 @Pani2
+<"Dokonca pracujem,"> odpovedal si afektovane a v duchu si sa musel za-
+smiat na tom, ako ti to ta krava zerie.
+<"Vazne? Vyzerate tak mlady!"> zvolala teatralne a vzopala ruky ovesane 
+zlatom. Jej dcera na teba len ticho zazerala.
+<"Az taky mlady nie som! Pracoval som pre Versaceho, teraz navrhujem na>
+<volnej nohe.">
+<"Ne-u-ve-ri-tel-ne!"> zvolal pani. <"Ja sama som bola kedysi modelkou,>
+<teraz som doma s mojim anjelikom,"> povedala pani a nasilu pohladkala 
+toho urevaneho fagana.
+
+&Povedat pravdu%84
+
+~84 @Pani3
+Rozhodol si sa vyjst s pravdou von:
+<"Je mi luto, ale nic z toho nie je pravda. Len som si vymyslel na poba->
+<venie.">
+<"No to je skandal!"> zrevala sidliskova modna ikona a zacala nezmyselne 
+blabotat cosi o mladezi, nevkuse a obtazovani, na co dokonca vytiahla slzny 
+sprej, ktory ti cely nastriekala do tvare. Az potom, tahajuc dceru za ruku, 
+odisla, zatial co ty si sa krcil na zemi v hroznych bolestiach... bolo ti 
+to treba?
+
+&Nadviazat rozhovor%81
+&Zavolat na skusobnu%91
+&Cakat%92
+
+~85 @Pan
+Pristupil si k panovi s batozinou. I napriek chladnemu pocasiu sa cely 
+triasol a potil.
+<"Ste v poriadku?"> pytas sa chlapa, kedze vyzera, akoby prezival zlcni-
+kovy zachvat.
+<"A-ano,"> hovori ti a utiera si pot z cela vreckovkou.
+
+&"Co to mate v tom kufri?"%86
+&Odist%90
+
+~86 @Pan2
+<"Prepacte, len ma zaujima, co mate v tom kufri.">
+<"Co?! Kto ste? Posiela vas Zvarac?">
+
+&"Zvarac?"%87
+&"Ano, posiela ma Zvarac..."%89
+
+~87 @Pan3
+<"Zvarac?"> optal si sa.
+<"Posiela ta ZVARAC?!"> pyta sa coraz nervoznejsie muz.
+
+&"Ano."%89
+&"Nie."%88
+
+~88 @Pan4
+<"Ziadneho zvaraca nepoznam... iba jedneho murara, ale toho asi vy nemy->
+<slite..">
+<"To teda nemyslim! A uz vypadni! Inak, mlady, prides k urazu!">
+
+&Odist (pre istotu)%90
+
+~89 @Pan5
+<"Ano, posiela ma Zvarac.">
+<"Tak mu odkaz, ze vsetko je... O.K."> kyvol ti chlapik a nevdojak sa po-
+zrel na kufor.
+<"Ako to ma pan Zvarac chapat?"> pytas sa.
+<"Tak. ze "kura je uz v trube"..."> naznacil ti chlap.
+<"Prosim???">
+<"Coze?! "Ryba je uz na tanieri"...">
+<"???">
+<"Skunk je uz v diere"... "gulocka je jamocke"... "hrniec je na sporaku!">
+<"Vy ste kuchar?!">
+<"Clovece?! Pozri sa sem, do kufra! Vidis?! Podnikatel uz nebude robit>
+<problemy - to odkaz Zvaracovi!">
+Mlcky si prikyvol a este raz si pozrel na mrtvolu v kufri.
+
+&Odist (pre istotu)%90
+
+~90 @Zastavka
+Stojis na zastavke a cakas na autobus. Ten ale neprichadza a neprichadza.
+
+&Zavolat na skusobnu%91
+&Cakat%92
+
+~91 @Skusobna
+Vytahujes mobil a vytacas Palove cislo, aby si zistil, ako to prave vyzera 
+na skusobni...
+<"Cau, to som ja. Ako to vyzera s Robom?">
+<"Spi. Kde si?">
+<"Na ceste do mesta po tie tabletky. Dovtedy ho nechajte vyspat a vy sa za->
+<tial úripravte. Koncert dnes musite odohrat!">
+<"O.K. Potom sa ozvi.">
+
+&Dalej%92
+
+~92 @Autobus
+S par minutovym zdrzanim konecne doraza autobus znacky Carosa, aby vas zvy-
+cajny vodic Stefan opat predviedol svoje umenie pirata dialnic.
+<"Dobry,"> zdravis Steva a kupujes si cely listok.
+<"Serus, serus,"> kyve ti cestny pirat a ukazuje ti, aby si si sadol na se-
+dadlo hned vedla, pri dverach (tzv. sedadlo smrti, pri Stefanovi to ale plati 
+dvojnasobne!).
+
+&Pomodlit sa a ideme%93
+
+~93 @Autobus2
+Cesta prebehla rychlo - par zdemolovanych aut a traja nezvestni cyklisti - 
+Stefan opat predviedol, ze este stale (ne)vie, kde je plyn a hlavne <brzda>.
+Cely rozklepany si vyliezol z pekelneho autobusu a ocitol si sa pred lekarnou!
+
+&Dalej%96
+
+~94 @Pesobus
+Peso?! Ty chces teraz ist do mesta peso?! Musim ti oznamit, ze cesta do mesta 
+a spat po vlastnych ti moze trvat hodiny, dokonca i dni! (Si totiz velmi lenivy 
+- peso nejdes, ak nemusis. A teraz nemusis.)
+
+&Autobus%79
+&Taxi(bus)%95
+
+~95 @Taxi
+Vytahujes mobil a volas si Taxika, konkretne svojho znameho Igora. So zaplate-
+nim si nelam hlavu, ci uz si zabudol 5000 Korun - dedicstvo po Dusekovi?!
+Igor ti do telefonu hovori, ze je volny a ze za pat minut je pri tebe.
+A naozaj! Neubehlo ani pat minut a pred tebou uz zastavovala modra Mazda s Igym 
+za volantom...
+Cesta ubehla rychlo. Igor nesklamal a opat predviedol, ze patri k najlepsim ta-
+xikarom a hlavne typkom v tomto meste. Predtym, vraj, robil traktoristu niekde 
+na strednom Slovensku - potom presedlal na Ve3Esku - a az po tom si sadol na ta-
+xika. Za desat minut a stopade v Slovenskych korunach si sa dostal na zaprsanu 
+ulicu s lekarnou, ktoru tak zufalo hladas.
+
+&Dalej%96
+
+~96 @Lekaren
+<Konecne si sa dostal do lekarne!> Predavac - uchyl na polovicny uvazok, stoji 
+za pultom, cez lupy na ociach skuma svoju lavu ruku = jednoducho vyzera pekne 
+sfetovane.
+<"Co to bude, mlady pan?"> pyta sa ta predavac (i ked si tym nie si celkom isty, 
+kedze na teba hladi len jedno jeho oko - to druhe prenikavo skuma krabicku s
+Paralenom 500 za tebou).
+
+&"Antietanolove tabletky."%98
+&"Viagru."%97
+
+~97 @Lekaren
+<"Viagru,"> oznamujes lekarnikovi. Ten si ta premierava pozornym pohladom (je-
+dno oko stale pozoruje ten Paralen).
+<"A obcianka by bola?"> pyta sa lekarnik, i ked sam urcite pozna odpoved.
+<"Bola by,"> pripustas.
+<"A je na nej 18?">
+<"Osemnast? Ha-ha, ja tam mam 1989!"> odpovedas mu.
+<"Ten rok mam rad,"> zasnene slinta na pult lekarnik. <"Demonstracie a obusky,>
+<brutalita,... Tak to bude za 1500,-">
+<"Coze?"> nemozes uverti vlastnym usiam.
+<"Inak ziadna sranda nebude.">
+<"Ked nebude, tak nebude..."> uzatvaras rozhovor (konecne).
+
+&"Antietanolove tabletky."%98
+
+~98 @Tabletky
+<"Mate antietanolove tabletky?"> pytas sa.
+<"Mame... znacka Kocka - male balenie 1000 Sk, velke 1250.">
+<"Tak to male, prosim,"> a vytahujes Dusekove peniaze.
+<"Nech sa paci,"> podava ti predavac tabletky, ktore koncia v tvojom vrecku.
+<"A to je vsetko?!"> pytas sa.
+<"Prosim?"> cuduje sa lekarnik.
+<"To mi ich len tak date?! Nic ine odo mna nebudete ziadat, ani stratenu bas->
+<gitaru?! Ani sa tu nezamknete a ja vas potom s vasou neterou nenajdem mrtveho?!> 
+<Ani sa neozeriete a nezmiznete ktoviekde?!">
+<"Nie,"> odpoveda casnik a pod pultom nervozne stlaca pohotovostne tlacidlo na 
+privolanie policie...
+
+&Cakat na prichod policie%99
+
+~99 @Lekarnik
+Policajtom sa ti tvoj nervovy vypad podarilo vysvetlit a tak ta pustili. Do-
+konca ich lekarnik presvedcil, aby ta odviezli co najdalej od jeho lekarne, 
+teda spat na sidlisko. Policajti mu vyhovali, i ked sa im lekarnikova buze-
+racia nepacila a vratili  mu ju otazkou, ci nahodou nieco nevie o novych 
+pripadoch unosov dochodkyn z mesta...
+Roztraseneho lekarnika ste zanechali v lekarni a poliacajti ta vyviezli 
+spat na sidlisko. Cestou sa ukazalo, ze su to celkom fajn chlapici, dokon-
+ca, ked si ich poprosil, zapli na aute i sirenu.
+
+&Pokracovat%100
+
+~100 @Skusobna
+Policajti ta vyhodili pred skusobnou, zazelali vela stastia pri koncerte a 
+odisli za pripadom znasilnenia akejsi babky v okoli lekarne :-).
+Uz tretikrat za dnesny den si sa do skusobne vratil ako kral. Ludia uz po-
+stavaju pred budovou, mnohi ta zdravia a cakaju na otvorenie a koncert. 
+Mobil ti ukazuje <7.57> - presne tri minuty do planovaneho zaciatku - tro-
+chu ale este potrva, kym tabletky zaposobia.
+Zadnym vchodom vychadzas do skusobne, kde ta uz vsetci nervozne ocakavaju, 
+zoskupeni okolo Roba, chrapajuceho na gauci. Trocha si ho preplieskal na 
+tvari a donutil si ho vypit tri tabletky.
+
+&Cakat a modlit sa%101
+
+~101 @Skusobna2
+Vsetci ste netrpezlivo cakali, kym tabletky zacnu posobit. Po desiatich mi-
+nutach, ked Robo este stale spal, poslal si niekoho odomknut hlavny vchod a 
+vybrat listky, ktore ste ale skor rozdavali ako predavali.
+Nervozita zacala stupat - ludia dolu uz zacali skandovat "<Pathetic>", ka-
+pela a stab nervozne obhryzala obklady chodby a Robo si podriemaval.
+Vtom ale <Robo zazracne otvoril oci> a zmorenym hlasom prehovoril:
+<"Dajte mi moju gitaru...">
+Ozvalo sa hlasite "<Huraaa!!!>", kapela vyskocila na nohy a, pridrziavajuc 
+Roba, zisla dolu medzi fanusikov. Stab, teda ludia, ktori pomahali s orga-
+nizaciou, vybehli za nimi - len ty si, unavou zmoreny, klesol na kreslo - 
+potreboval si jednoducho oddych. Po takomto dni, aky si mal prave za sebou, 
+sa ani nic ine nedalo ocakavat...
+
+&Koncert%102
+
+~102 @Koncert
+<Prvy koncert kapely Pathetic sa viac nez vydaril - ludia prijali novu ro->
+<ckovu kapelu viac nez kladne, par prebratych piesni ludi rozohnilo a ori->
+<ginalne refreny sa sidliskom sirili este celu noc ako rockova tlakova vlna.>
+<V sale sa rockovalo, spievalo a pogovalo, pogovalo, rockovalo a spievalo,>
+<az prisiel koniec. Nikomu nezkazil skvelu naladu ani Robov pad z podiu, kto->
+<ry sa tam potacal cely koncert.>
+<Nasledoval dlhy potlesk, prave ktory ti dokazal, ze nic za posledne tri roky>
+<a hlavne za dnesny den, si nerobil zbytocne - vsetko malo daky zmysel, ktory>
+<sa ti odkryval prave tymto uprimnym potleskom...>
+
+&Dalej%103
+
+~103 @Koncert2
+<Po koncerte ste sa vsetci (doslova) presunuli do blizkeho baru, kde kapela>
+<vratane teba oslavovala svoj prvy uspech. V bare ste sa uz zisli naozaj vset->
+<ci - cela rockova banda z celeho sidliska. Najviac ta vsak potesilo, ked si>
+<pri pulte zazrel Lenku - sympaticku blondinu, ktoru si dnes spoznal. Pribehol>
+<si za nou k  baru a na tvar jej dal velku pusu. Vyskocila, spoznala ta a obja->
+<la ta...>
+<Az do rana bieleho ste sa vsetci zabavali a to nie len v bare - ale na celom>
+<vasom ihrisku - na tom obrovskom sidlisku! Pili ste, spievali, "tancovali",>
+<budili ludi a strasili bezdomovcov - to je zhruba vsetko, na co sa pamatas...>
+<Az prislo rano a strasne prebudenie... na lavicke v parku s hlavou ako kredenc!>
+                                  <KEEP SMILE!>
+
+&Koniec%110
+
+~110 @Koniec
+<A toto je koniec. Pre uplnost dodam, ze kapela Pathetic odohrala este> 
+<mnoho dobrych koncertov, no uz ziadny z nich uz nebol ako tento. S Lenkou> 
+<si po par tyzdnoch znamosti zacal chodit - svojej tete Inge ta radsej nikdy> 
+<nepredstavila.>
+<A teraz je cas, aby som sa i ja rozlucil. Dufam, ze sa este "uvidime" pri> 
+<dalsej mojej textovke.>
+                  <Degster>
+
+<P.S.: V menu na teba caka este ReadMe aj s nejakymi kreditmi, ak si ich este> 
+<neotvoril, tak tak mozes urobit teraz...>
+
+&Koniec%0
+
+~111 @Readme
+ReadMe:
+Neubehlo ani tolko casu, co som dokoncil svoju <PRVU textovku> vyrobenu v
+<TGE - TextGame Engine>. Ak to presne pocitam, nie su to ani 4 dni.
+Tuto hru som zacal robit este pred vydanim mojej debutovky - neviem
+teda, ake ohlasy budu na nu - teda <One F*i*n*e Day: Nedela>. Teraz, s
+dokoncenim <KAPELY> uz vidim slabiny svojej debutovky, no po kratkom roz-
+myslani som sa i tak rozhodol, ze ju predsa vydam, i ked tejto hre sa
+(dufam) nemoze ani rovnat. Pravdupovediac, tuto hru som s takym krat-
+kym casovym odstupom robil hlavne preto, ze som si chcel zopakovat ten
+KRASNY pocit, ked svoju hru dokoncite - tento pocit euforie vsak tentoraz
+neprisiel - mozno koniec nie je taky, aky by som chcel - mozno si len musim
+dat pauzu... Za ten cas urcite, kvoli zlepsovaniu kvality mojich buducich
+hier uvitam, ak mi poslete objektivnu kritiku, ktora mi v buducnosti pomoze
+(to ale neznamena, ze pochvalu neprijimam :-) !).
+
+<A teraz uz len slubovane kredity:>
+
+&Kredits%112
+
+~112 @Kredity
+<Kredity:>
+                       Text ..... Degster (kontakt: degster@szm.sk)
+                       Idea ..... Degster
+                Grafika (?) ..... Degster
+                   Program  ..... TGE by The Fox (thefox@pobox.sk)
+ Hudobne nastroje zapozical ..... Jaroslav Dusek, a.s.
+
+&Special thanx%114
+                              
+~114 @Thanx
+                         <Specialne podakovanie:>
+
+<Podakovat hlavne chcem VSETKYM SLOVENSKYM ROCKOVYM KAPELAM za to,... ze su.>
+<Bez nich by to totiz nestalo za nic, i ked to popri roznym komercnym stylom>
+<maju urcite tazke.>
+   <Preto drzim palce!>
+
+                                    +++
+
+<Kapele Wanastowi Vjeci, ktorej album Lzi, Sex a Prachy mi robil spolocnost po->
+<cas celeho vyvoja hry!>
+<A kapele Helenine Oci, hlavne za song Marianna - hymnu nasho lyziaraku v Dubo->
+<vici vo Februari 2007!>
+
+<A to uz je odo mna vsetko. Nateraz sa lucim a dufam, ze sa opat stretneme pri>
+<dalsej mojej hre!>
+                                                              Degster, 1.3.2007
+                                                                 degster@szm.sk
+
+&MENU%0
+&KONIEC%113
+
+~113 @Koniec
+|

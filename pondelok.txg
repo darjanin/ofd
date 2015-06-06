@@ -1,0 +1,1219 @@
+~0 @Zaciatok                  
+                  
+                         <ONE F*I*N*E DAY: Pondelok>
+                         <------------------------->
+Vitam vas pri hrani dalsej z mojich textoviek, ako vzdy vytvorenej v <TGE>, kto-
+ry ako textovy engine mozem z vlastnej skusenosti len odporucit :-)!
+Musim s potesenim podotknut, ze toto je uz moja tretia textova hra v TGE - ak
+vas to zaujima, tak si najprv omrknite <Read ME>. Ak nie, tak volba <Nova Hra>.
+Ak ani to, tak uz len volba <Koniec> a "slucka" kdesi v pivnici...
+Dufam, ze sa vam hra bude pacit a ze mi zaslete svoj nazor na <degster@szm.sk> 
+a mrknite sa na <www.degster.szm.sk>.
+                                                                      Degster
+
+&Nova Hra %1
+&Read ME %500
+&Koniec %200
+                                                    
+~1 @Uvod
+ <Uvod:>
+Tvoj "minulodielovy" prehresok, ked si sa v nedelu vecer opil a nasledovny pon-
+delok si nedorazil do skoly, sa tvoji rodicia rozhodli riesit velmi original-
+ne - na cely mesiac ti boli pozastavene vychadzky, prijmy  a <skola>! To, co si 
+najprv povazoval za vtip sa prichodom tvojho noveho domaceho ucitela zmenilo 
+na nocnu moru!
+Tvoji rodicia jednoducho po niekolkych tvojich sedeniach u psychologa usudili, 
+ze najlepsie bude ta na isty cas odrezat od sveta a "zlych vplyvov" a to pres-
+ne <na jeden, dlhy, nekonecny mesiac>...
+Cuduj sa alebo nie, ale po par neuspesnych pokusoch o utopenie sa v zachode 
+(na tvoju obranu ale musim dodat, ze si predtym vzdy splachol) ten mesiac nao-
+zaj raz skoncil a prave dnes je to presne mesiac od vtedy, co si v nedelu ve-
+cer odisiel a vratil si sa az rano...
+Do skoly sa tesis ako male decko (raz sa tomu budes smiat... alebo plakat :-)) 
+- cely  den  si pripravujes batoh, ucebnice a zosity, oblecenie a cigarety u-
+kryte vo vyrezanom strede ucebnice fyziky...
+  <Ved zajtra je skola!!!>
+
+&Vyspat sa a hura do skoly! (Velmi zvlastne slovne spojenie) %2
+
+~2 @Rano
+<Konecne je tu pondelok rano!> Po vcelku nepokojnej noci, ked si vobec nemohol
+zaspat, si vyskocil cely nateseny z postele a rozbehol sa do sveta.
+Byt je prazdny - tvoji rodicia uz zjavne nepovazuju za dolezite rano skontrolo-
+vat, ci naozaj ides do skoly, alebo do <bistra U Janosika> - dnes ale vazne i-
+des do skoly a na "uja Janosika" ani nemyslis...
+Vycerpavajuci den sa ale najprv patri zacat plnohodnotnymi ranajkami:
+
+&Volske oko %3
+&Prazenica %4
+
+
+~3 @Volske oko
+Dostavas neopisatelnu chut na <volske oko> a tak z chladnicky vytahujes jednu 
+volsku hlavu a lyzicou z nej vydlabavas oko... je to jednoducho lahodka!
+
+&Do skoly(?)!%5
+
+~4 @Prazenica
+Mas chut na prazenicu a tak z chladnicky vytahujes mensie pstrosie vajce (na 
+ranajky toho vela nejedavas), ktore si narychlo usmazil na panvici Jackieho 
+Chana.
+<Zakladom kazdeho dna su vyzivne ranajky!> - ucili ta doma.
+
+&Do skoly(?)!%5
+
+~5 @Vonku
+Najedeny, si sa rychlo umyl pod pumpou, obliekol sa a pred odchodom do skoly si
+este nakrmil a podojil domace zvierata...
+Na chrbat si hodil batoh, zamkolsi byt (aj s mladsim bratom vo vnutri) a vysiel 
+si von na ulicu sidliska, kde prezivas svoj plnohodnotny teenagersky zivot.
+Cerstvy vzduch, ktoreho aromu podtrhuje nedaleka dymiaca tovaren na pneumatiky,
+ti jemne chladi pluca a ranne slnecne luce, predierajuce sa ozonovu dierou, ti 
+laskavo hladia tvar... myslis na posledny mesiac, prezity medzi styrmi stenami.
+
+Sidlisko teraz vyzera tak, ako si ho pamatas - rozbite socialisticke panelaky 
+sa spod rozbitych chodnikov tycia do vysky na vsetky svetove strany.
+
+Je sedem hodin a sidlisko je plne mladych ludi, ktory s batohmi prechadzaju do 
+skol, barov, ci iba si zapalit kamsi na tiche miestecko, bez zvedaveho pohladu 
+pohorsenych starsich ludi, prechadzajucich okolo.
+na skolu mas este cas - takze kam?
+
+&Ist do trafiky %7
+&Ist do samoobsluhy %19
+
+~6 @Vonku
+Je sedem hodin a sidlisko je plne mladych ludi, ktory s batohmi prechadzaju do 
+skol, barov, ci iba si zapalit kamsi na tiche miestecko, bez zvedaveho pohladu 
+pohorsenych starsich ludi, prechadzajucich okolo.
+
+&Ist do trafiky %7
+&Ist do samoobsluhy %19
+
+~7 @Trafiky
+Vosiel si do modernej drevenej kolne, v ktorej za pultom stoji postarsia pani 
+s kuskom taveneho syra prilepenym na cele a snazi sa ti nieco predat:
+
+&Cigarety %7
+&Brozurka Idealny partner %8
+&Vesela Kocka %9
+
+~7 @Cigi
+Na pult si s cvengotom polozil patdesiatku + nejake drobaky a vypytal si si 
+krabicku cervenych Marlboriek. Cely mesiac ti totiz bol na suchu - i ked i pra-
+ve teraz mas v batohu svoju KPZ - Krabicku poslednej zachrany, t.j. ucebnicu 
+fyziky pre 1. rocnik, v ktorej vyrezanom strede uchovavas "kontraband"...
+
+&Kupit Veselu Kocku %9
+&Radsej prec %34
+
+~8 @Partner
+Zaujala ta hlavne polska brozurka <Idealny partner>, s prekladom Bozeny Tavy Ci-
+chackovej. Predavacka, zjavne prekvapena tvojou volbou, ti ju za mensi finan-
+cny obnos predala.
+Po par minutach citania ("brozurka" mala asi 3 strany + obsah + reklama na u-
+krajisky pansky magazin Sexy Latky) si bol schopny povedat iba tolko:
+<Idealny partner>:
+* nefajci
+* nepije
+* neflirtuje
+* NEEXISTUJE!
+               (joker)
+
+&Kupit Veselu Kocku %9
+&Radsej prec %34
+
+~9 @Vesela kocka
+<"Najnovsiu Veselu Kocku,"> povedal si a z vystrihu si vytiahol zrolovane pe-
+niaze. Pani so syrom ti (prekvapivo) podala najnovsie cislo <Veselej Kocky>...
+
+&Precitat Veselu Kocku %10
+&Zahodit Veselu Kocku (?!) %18
+
+~10 @Kocka
+Vzal si casak, zroloval ho a strcil do vrecka a vysiel si pred trafiku. Tam si 
+si sadol na murik, medzi zuby vlozil trs travy a zahlbil si sa do <Veselej Kocky>
+<- magazinu pre deti a inu haved>...
+
+&Citat %11
+
+~11 @Kocka
+V <Editoriale sefredaktora> si sa docital, ze osadenstvo redakcie Veselej Kocky 
+si z Letneho tabora Veselej Kocky okrem fotiek a zazitkov prinieslo aj kvapav-
+ku...
+
+&Citat dalej %12
+&Zahodit Veselu Kocku (?!) %18
+
+~12 @Kocka
+V <Rozhovore s...> si si precital Rozhovor s Tomasom Levickym na temu "Nikto ma 
+nepozna"...
+
+&Citat dalej %13
+&Zahodit Veselu Kocku (?!) %18
+
+~13 @Kocka
+V <Reportazi> si sa dozvedel, ze v Prahe sa bude konat Zraz autickarov - deti o-
+krem najnovsich pacidiel a paklucov snad uvidia aj auto... :-)
+
+&Citat dalej %14
+&Zahodit Veselu Kocku (?!) %18
+
+~14 @Kocka
+V <PC Poradni> si nasiel na piatich riadkoch navod na textovku <Kapela>...
+
+&Citat dalej %15
+&Zahodit Veselu Kocku (?!) %18
+
+&Ukoncit%15
+
+~15 @Kocka
+V <Recenzii> si si precital recenziu na klasicku detsku rozpravku <Zahulienka a> 
+<7 malych rastafarianov>... Peace...
+
+&Citat dalej %16
+&Zahodit Veselu Kocku (?!) %18
+
+~16 @Kocka
+A v <Kulturnej pozvanke> si sa dozvedel, ze popularna hudobna skupina <Slipknot>
+navstivi v ramci svojho turne <"Shut the fuck up, kids!"> miestnu matersku sko-
+lu... Prezuvky, desiatu a nahradne oblecenie so sebou.
+
+&Citat dalej %17
+&Zahodit Veselu Kocku (?!) %18
+
+~17 @Kocka
+Az si dostal na koniec... rozsiril si si obzory a si opat "in"...
+
+&Zahodit Veselu Kocku (?!) %18
+
+~18 @Kocka
+                                 FATAL ERROR
+                APLICATION <Zahodit_Veselu_Kocku> IS NOT SUPPORTED
+                            
+&A(b/p)ort%34
+
+~34 @Do samosky?
+Je sedem hodin a sidlisko je plne mladych ludi, ktory s batohmi prechadzaju do 
+skol, barov, ci iba si zapalit kamsi na tiche miestecko, bez zvedaveho pohladu 
+pohorsenych starsich ludi, prechadzajucich okolo.
+
+&Ist do samoobsluhy %19
+&Ist do skoly %37
+
+~19 @Samoska
+"Samootvaracimi" dverami na fotobunku si sa prebil do tichej samoobsluhy. Si tu
+len ty, predavac a par dochodcov, ktori zvadzaju tuhy pastny suboj o zlacnene 
+rozky.
+
+&Nakupit%20
+&Vypocut problemy dochodcov%24
+
+~20 @Samoska
+Nejakej panej si z ruk vytrhol okoleseny vozik i s nakupom a urevanym deckom a 
+vydal si sa medzi regaly.
+Ale okrem par sackov snupacieho kakaa, Okeny a limonady Diabetikova Smrt tu 
+"nicoh's nic neni"...
+
+&Kakao%21
+&Okena%22
+&DS - Diabetikova Smrt%23
+
+~21 @Samoska
+Do vozika si si hodil sacok snupacieho kakaa s prilozenou slamkou a kredit-
+kou :-) - hodil si si to do vozika a pri pokladni si si to zaplatil.
+
+
+&Dalej %35
+
+~22 @Samoska
+Obzvlast sa ti zapacila flaska modrej Okeny s prilozenym platkom chleba na 
+preliatie - hodil si si to do vozika a pri pokladni si si to zaplatil.
+
+&Dalej %35
+
+~23 @Samoska
+Zostal si verny svojej znacke a kupil si si plechovku predrazenej limonady 
+<Diabetikova Smrt> so zvysenym obsahom cukru  - hodil si si to do vozika a 
+pri pokladni si si to zaplatil.
+
+&Dalej %35
+
+~24 @Dochodcovia
+Opatrne si sa priblizil k agresivnym dochodcom - konkretne jednej postarsej pa-
+nej a rovnako staremu dzentlamenovi, bojujucim o posledne tri zlacnene rozky...
+V tejto chvili dochodkyna drzi oboma rukami hlavu svojho supera a palcami tla-
+ci na jeho ocne bulvy. Ten jej nezostava nic dlzny a dokladne ju skrti.
+
+&Opatrne zistit situaciu %25
+
+~25 @Dochodcovia
+Opatrne si prisiel k dochodcovi a opytal si sa ho, co sa tu deje.
+<"Dobre ze ides, chlapce,"> potesil sa pan suslavo - jeho nebezpecne zuby drza-
+la dochodkyna zamknute v kabelke.
+<"Tato pani si narokuje na MOJE rozky!"> pokracoval starcek a kopol dochodkynu 
+do brucha.
+<"Never mu, chlapce!"> ohradila sa ta, len co nabrala dych. 
+<"JA som tu bola prva!">
+<"Tak to nie!"> ohradil sa pan. <"Opytajte sa predavaca! Opytajte sa ho!">
+
+&Zavolat policiu %32
+&Uverit dochodcovi %29
+&Uverit dochodkyni %30
+
+&Nestarat sa viac do sporu %33
+
+~29 @Dochodcovia
+<"Verim vam,"> povedal si panovi a kopol si dochodkynu do celuste. Ta ta ale 
+svojou kabelkou plnou tehiel tresla po hlave tak, ze si sa prebudil na ulici..
+v hlave citis prazdno a na nohach tiez - niekto ti ukradol tvoje nove znacko-
+ve topanky...
+
+&Pokracovat do skoly%37
+
+~30 @Dochodcovia
+<"Verim vam, teta,"> povedal si dochodkyni - jej naroky na tri suche rozky sa
+ti zdali doveryhodnejsie, co si jej nasledne dokazal tym, ze si jej superovi
+skopol nohy v kolenach a kopol ho do cela.
+
+&Bojovat %31
+
+~31 @Dochodcovia
+A tak ste spolu s dochodkynou mlatili chudaka-starceka. Z amoku vas vytrhol az
+zvuk policajnej sireny - starenka schmatla tie tri sporne rozky, kyvla ti na 
+pozdrav a vybehla zo samoobsluhy, kde ju uz cakal jej komplic na nastartovanom 
+mopede...
+
+&Pokracovat do skoly%37
+
+~32 @Dochodcovia
+Nemohol si sa uz viac pozerat na nasilie dochodcov a vyzval si predavaca, aby 
+zavolal policiu.
+Ale len co sa po sidlisku rozoznel zvuk sireny, dochodcovia schytili tie tri 
+sporne rozky a rozbehli sa zo samoobsluhy. Daleko ale nedosli - veseli policaj-
+ti na nich vypustili psov... :-)
+
+&Pokracovat do skoly%37
+
+~33 @Dochodcovia
+Rozhodol si sa nestarat do sporu dochodcov a potichu sa vytratil zo samoobslu-
+hy, prave vo chvili, ked uz predavac vytahoval na dochodcov brokovnicu... Pri-
+siel si o najlepsie divadlo.
+
+&Dalej%37
+
+~35 @Samoska_prec
+Stojis v tichej samoobsluhe. Odkialsi zo zadu k tebe doliehaju vykriky bojuju-
+cich dochodcov, zatial co sa flegmaticky predavac prechadza medzi regalmi a
+sem-tam pohladi zamrazene kurcata.
+
+&Vypocut problemy dochodcov%24
+&Odist%36
+
+~36 @Samoska_prec
+Nakupene nas a tak nevidis dovod pobudnut medzi tymito stiesnenymi regalmi co 
+i len o minutu dlhsie a tak do bundy narychlo schovavas rodinne balenie kondo-
+mov a utekas prec.
+
+&Dalej%37
+
+~37 @Skola
+Pri pohlade na hodinky bezdomovca spiaceho na zemi zistujes, ze o hodinu sa
+ti zacina vyuka - najlepsie bude, ak sa uz konecne vydas do skoly... Ale ako?
+
+&Stopom %37.1
+&Peso %38
+&AutoBusOm %37.2
+
+~37.2 @Bus
+Vydavas sa na blizku autobusovu zastavku, odkial by ti mal pravidelne prema-
+vat spoj az ku skole - otazka je len, ze kedy...
+<Mas stastie!> Na zastavke uz stoji par ludi - autobus musi za chvilu prist!
+
+&Zapalit si %37.3
+&Pokecat so skolnikom %37.4
+&Cakat %37.5
+
+~37.3 @Bus
+Z vrecka si vytiahol krabicku (=pakel) Marlboriek, zapalovac a periodicku su-
+stavu prvkov (PSP). Nasledoval tento osvedceny postup:
+1. Cigaretu vlozime (filtrom!) do ust
+2. Skrtneme zapalovacom a zapalime PSP
+3. Horiacou PSP pripalime cigaretu
+4. Fajcime a podla potreby opakujeme
+
+&Dalej (a podla postupu) %37.31
+
+~37.31 @Bus
+Jedna starsia pani ta pri fajceni okrikla, ci sa nehanbis. Odpovedal si, ze 
+nie...
+
+&Dalej %37.32
+
+~37.32 @Bus
+A tak si stojis na plniacej sa zastavke, fajcis a odklepavas jednemu malemu
+chlapcekovi na hlavicku, ktoremu to asi nevadi.
+
+&Dalej %37.2
+
+~37.4 @Bus
+Na tvoje velke prekvapenie a radost priklusal na zastavku skolnik z tvojej
+skoly!
+Skolnik, akysi Brecz, je totiz najlepsi skolnik, akehosi kedy stretol. Az do-
+vtedy si si myslel, ze vsetci skolnici su tichi podivini, ktori travia volny 
+cas sparanaim sa v zuboch klincami a obcasnou buzeraciou ziakov...
+Ale Rado je iny - je to styridsiatnik, ktory sa vacsne stazuje na svoju bl-
+bu manzelku a urevane decka, zatial co s udrzbarom a telocvikarmi chlastaju 
+v dielni. 
+Ale so svojim skolnikom sa viac-menej kamaratis preto, lebo len on ti moze
+vybavit <dobrovolne prace> okolo skoly (teda legalne <VOLNO>)<!>
+
+&Dalej %37.41
+
+~37.41 @Bus
+Stojis pred tvojim skolnikom, z ktoreho silno sala pivo (asi preto ide busom).
+
+&"Nazdar." %37.42
+&"Ako sa mate?" %37.43
+&"Co noveho v skole?" %37.44
+&"Dovi." %37.46
+
+~37.42 @Bus
+<"Dobry,"> pozdravil si sa familiarne.
+<"Daj si pohov,"> odbil ta skolnik - no, zas az tak dobri priatelia nie ste.
+
+&Dalej %37.41
+
+~37.43 @Bus
+<"Ako sa mate?">
+<"Na hovno,"> odpoveda ti uprimne skolnik. <"Zena na mna v kuse reve a pyta>
+< prachy.">
+<"Tak ju predajte,"> zartujes.
+<"Chceli, aby som priplacal,"> odpovedal s vaznou tvarou.
+
+&Dalej %37.41
+
+~37.44 @Bus
+<"Co noveho v skole?">
+<"Teba fakt vykopli?!">
+<"Nie... ale to je dlha historia... Preco by ma mali vykopnut?">
+<"Sorry, len som ta dlho nevidel. To je vsetko. Ale tvoji kamosi chodia sta->
+< le pomahat okolo skoly - ulievaju sa.">
+<"Samozrejme, ked som ich naucil ja,"> hovoris podrazdene.
+<"Tak to chodi...">
+
+&Dalej %37.45
+
+~37.45 @Bus
+<"No co teda mame v skole nove?">
+<"Nic - nemusis sa bat ani tesit. Vsetko ide po starom.">
+<"Tak naco tam potom leziem?!"> pytas sa sam seba.
+<"Tak to vazne netusim...">
+
+&Dalej %37.41
+
+~37.46 @Bus
+<"Dovi,"> rozlucil si sa, len co sa prihrnul autobus a skolnik don vliezol
+- nebol to ale ten, na tvoj (skolnik ide do mesta chlastat).
+<"Ked budes potrebovat, tak prid. Ved vies,"> povedal ti este z dveri.
+
+&Cakat a cakat %37.5
+
+~37.5 @Bus
+A tak stojis na zastavke a cakas na autobus - aj by si si sadol, ale lavicku
+obsadil akysi bezdomovec, ktory tam len lezi a prevaluje sa - to je zivot :-).
+
+&Dalej cakat %37.51
+
+~37.51 @Bus
+Stale cakas a cakas, no autobus nikde, dokonca i ostatni ludia zacinaju byt
+nervozni. Ty si zatial pokojny - staci ti, ze uz teraz to vyzera pekny slnecny 
+den, ake mas rad.
+
+&Este cakat %37.52
+
+~37.52 @Bus
+Konecne prichadza maly hrdzavy autobus. Stary sofer uz z vonku vyzera, ze sa moze
+kazdu chilu vypustit dusu - a prave k nemu do autobusu si odovzdane sadas.
+
+&Dalej %37.53
+
+~37.53 @Bus
+
+
+~37.1 @Stop
+Postavil si sa k dialnici do mesta, natrcil si ruku a vystrcil palec... Neigno-
+ruje ta jedine prostitutka postavajuca oproti, ktora ti oplzlo nadava a hadze
+po tebe kamene (zjavne ta povazuje za konkurenciu). Okoloiduce auta ta naroz-
+diel od devy ignoruju...
+
+&Peso %38
+&Autobusom %37.2
+
+~38 @Skratka
+Po vlastnych sa vydavas do skoly. Stredna skola, ktoru (ne)navstevujes, sa na-
+chadza od sidliska, kde zijes, asi pol hodinu pesej chodze - no uz po desia-
+tich minutach unavnej chodze pozorujes nad hlavou hustnuce cierne mraky a ci-
+tis siru - skola je uz na blizku... Inak sa ukazuje na pekny slnecny den.
+Konecne si zisiel na pesi most, viac-menej spajajuci sidlisko a mesto.
+
+&Pokracovat v ceste%100
+
+&Navstivit staru mamu %39
+&Omrknut blizky pajzel %39.1
+
+~39.1 @Mytna
+Na tvoju obranu dodam, ze si par sekund bojoval - no potom si cez cestu pre-
+siel k malemu pajzlu Mytna, odkial oknami unikaju kudole dymu, cinkotania 
+poharov a veselej vravy.
+Aroma piva, ktora zasiahla tvoje cuchove receptory hned po otvoreni chatrnych 
+dveri, v tebe prebudila skoro pochovane pudy a instinkty. S revom si skocil po
+prvej flaske piva, ktoru si videl na blizkom stoliku a nalial si si zlatisty
+mok do ust - jednoducho si musel dohnat svoj mesacny dlh vsetkym pivovarom.
+
+&Dalej %39.2
+
+~39.2 @Mytna
+Traja obrovski chlapi ta museli odtrhnut od flasky a jej majitela, ktoreho si
+zatial kopal do kolena a pustili ta, az ked si sa upokojil.
+Sadol si si k baru a popijajuc tekute zlato pozorujes sceneriu okolo seba.
+Pajzel <Mytna> sa stal vdaka liberalnemu postoju barmana k alkoholu v spojitos-
+ti s neplnoletou mladezou velmi oblubeny - ci uz rano pocas skoly, poobede po 
+skole ci v obvykle piatkove vecery.
+Teraz vsak v Mytnej vidis skor chlapikov pracujucich v blizkej tovarni a pripi-
+tych dedov, hadajucich sa pri pive.
+
+&Na toaletu %39.31
+&K jukeboxu %39.3
+
+~39.31 @Mytna
+Pomedzi male stoliky, praskajuce pod haldami flias od piva, si sa pajzlom pre-
+bil k dveram na toaletu, za ktorymi ta okrem "zaujimavej" aromy cakal aj akysi 
+pan, pytajuci sa ta, ci nekupis psa.
+
+&Na malu %39.32
+&Na velku %39.33
+
+~39.32 @Mytna
+Postavil si sa k musli, rozopol si nohavice a stiahol si ich na pol zrde - pri
+moceni si teda fakt zaujimavy zjav, co moze potvrdit aj "pan so psom".
+
+&Prec %39.34
+
+~39.33 @Mytna
+Zaliezol si do plechovej budky a sadol si si na "tron" a za ozveny krokov "pa-
+na so psom" zvonku si sa nervozne... vykadil.
+
+&Prec %39.34
+
+~39.34 @Mytna
+Vysiel si nervozne z panskych zachodov, sprevadzany blabotanim "pana so psom" 
+o jeho psovi, ktoreho chcel predat (az kym ho iny pan, vyzerajuci ako kamio-
+nista, nezatiahol do jednej z kabiniek - no ty si uz bezal prec). 
+
+&K baru %39.9
+
+~39.3 @Mytna
+V najtmavsom rohu pajzla ta uputal maly, svetielkujuci zazrak zvany <jukebox>.
+Dopil si pivo, zaplatil a hladajuc vo vreckach drobne, si sa vydal <za svet->
+<lom> :-)...
+
+&Vhodit 10 Sk %39.4
+
+~39.4 @Mytna
+"Kupil" si si 6 minut a 31 sekund skvelej hudby s pesnickou <Hotel California>
+od <Eagles>. Bolo to tvojich najlepsie utratenych 10 korun.
+
+&Vhodit dalsich 10 Sk %39.5
+&Prec %39.9
+
+~39.5 @Mytna
+Vhodil si desiatku a z jukeboxu sa ozvali <Wanastowi Vjeci - Jsem Nevinnej>.
+Cas, straveny hranim na imaginarnu gitaru pokrikovanim "Jsem nevinnej!" ti
+rychlo ubehol a v pajzli nastalo ticho...
+
+&Vhodit dalsich 10 Sk %39.6
+&Prec %39.9
+
+~39.6 @Mytna
+Dalsich 10 Sk + jukebox sa tentoraz = <Hysteria> od <Def Leppard>...
+
+&Vhodit dalsich 20 Sk %39.7
+&Prec %39.9
+
+~39.7 @Mytna
+Vhodit dalsich <20 Sk>? Jukebox neberie papierove! Skus to este raz!
+
+&Vhodit dalsich 10 Sk %39.8
+&Prec %39.9
+
+~39.8 @Mytna
+Vhodil desatku a jukebox ti ju oplatil <Lennym Krawitzom - Fly Away>... po-
+chvalil si ho (jukebox) (?!) (:-))
+No tym si uz vycerpal "obrovsku" zasobu tohto samohybu na baterky...
+
+&Prec %39.9
+
+~39.9 @Mytna
+Sedis pri bare a popijajuc uz druhe pivo snazis sa odlepit od stolicky a ist
+tej skoly.
+<"Velku dvanastku,"> ozvalo sa vedla teba a ty si spoznal, ze ide o tvojho do-
+breho kamosa a spoluziaka Tomasa!
+<"Serus, Tomy,"> povedal si s usmevom.
+<"Co? To? Seruuus, kamo,"> hovori ti Tomas a stiska ti ruku. <"Uz ta pustili?">
+<"Odkial o tom vies?">
+<"Myslis tvoje "samostudium?" Od tvojho brata - chvalil sa tym asi tyzden.">
+<"Wow,"> povzdychol si si, sokovany takym prejavom bratskej lasky.
+
+&"Co ty tu?" %39.91
+
+~39.91 @Mytna
+<"Co ty tu vlastne robis, Tomy?">
+<"Zdrhol som zo skoly,"> pochvalil sa spoluziak a vytiahol z tasky skolsky de-
+bilnik, v ktorom nalistoval ospravedlnenia od rodicov.
+<"Prave?"> pytas sa, prezerajuc si ospravedlnenie od "rodica".
+<"Samozrejme. Sam som si ho napisal - original styl...">
+
+&"Ako?" %39.93
+&"A co skola?" %39.94
+
+~39.93 @Mytna
+<"Ako si to urobil?"> pytas sa - po mesiaci doma si trochu "out".
+<"Pche,"> uskrnul sa Tomas a z tasky vytiahol druhy, rovnaky debilnik!
+<"Bratranec ma prefektnu tlaciaren so skenerom. Tak sme si nakopirovali debil->
+ <niky...">
+<"Svinstvo,"> uskrnul si sa a so slovami <"Zajtra nech ho mam,"> si mu podal 
+svoj debilnik na skopirovanie. Tomas sa uskrnul a odpil si zo svojho Prazdroja.
+
+&"A co skola?" %39.94
+
+~39.94 @Mytna
+<"A co skola?"> pytas sa.
+<"Po starom.">
+<"Neverim, ze za mesiac sa nic nestalo!">
+<"Stalo, keby som ti teraz zhrnul cely mesiac, tak sa tu poseries.">
+<"Diky.">
+<"Nemas zac.">
+
+&"Ides so mnou do skoly?" %39.95
+
+~39.95 @Babka
+<"Ides teraz so mnou do skoly?">
+<"Ved teraz som z nej vypadol! Sorry, ale v ziadnom pripade.">
+<"Chapem. Ale ja uz musim ist. Tak cau!">
+<"Cau a na, zober si,"> povedal Tomas a z tasky vytiahol krabicku cigariet LM.
+<"Uzivaj ich s rozumom,"> dopovedal tajomne, LMka ti podal a potlapkal ta po ple-
+ci.
+<"Wow, kolko tam toho mas?!">
+
+&Do skoly %100
+
+~39 @Babka
+Ako hovorim/pisem - mas este kopu casu a tak sa este vydavas na navstevu svojej
+starej mamy, ktora sama zije v pernikovej bytovke hned za rohom.
+Za svojej mladi hravala tvoja starka na harmonike v nie velmi uspesnej hudob-
+nej skupine, ktoru kumunisticki pohlavari zakazali kvoli protistatnym textom 
+ich ludovych piesni. Starka ale na ludovky nezanevrela a dnes manazuje nezis-
+kovu  organizaciu <S.H.I.T. - Spolok Harmonikovej Idylickej Tolerancie>.
+Stojis pred bytovkou, kde na tretom poschodi byva tvoja starka. Az dolu pocujes
+radio, ktore na plne pecky hra naj ludovky s vysokym obsahom harmoniky.
+
+&Zazvonit%40
+&Kaslat na to%100
+
+~40 @Babka
+Trikrat si zazvonil na zvoncek povedla zavretych vchodovych dveri. Avsak zvuky
+harmoniky stale neutichaju - starka zjavne nepocuje.
+
+&Rozbit dvere%41
+&Hodit kamienok do okna%73
+&Kaslat na to%100
+
+~41 @Suseda
+Nahnevany, ze ta starka ignoruje prave ked ju chces po troch rokoch ignoracie 
+navstivit, si sa napriahol a nohou vykopol sklo na dverach...
+Suseda, stojaca na schodoch, po ktorych prave schadzala dolu, na teba iba blbo 
+cumi.
+
+&"Hups"%42
+&"Dovidenia" a zdrhnut%43
+&"Necum, starena"%44
+
+~42 @Suseda
+<"Hups,"> povedal si prestrasenej dochodkyni a presiel si dnu.
+<"Ty grazel!"> zakricala pani a hodila po tebe kybel s vodou, ktory prave dr-
+zala. Nastastie si sa uhol a vedro presne (t.j. do hlavy) zasiahlo mlady stu-
+dentku, zastupuju projekt pre navrat starych ludi do spolocnosti <Stare stro->
+<my>.
+Vyuzil si sok dochodkyne (studentka bola jej vnucka) a presmykol si sa vedla 
+nej dalej.
+
+&Dalej%72
+
+~43 @Suseda
+Radsej beries nohy na ramena. Po patnastich metroch takehoto nepohodlneho behu 
+sa  ti na ceste ruky zadrel kamienok a ty si zletel. Nastastie ta pani nesledo-
+vala, ale tymto sa navsteva tvojej starkej presuva na neurcito.
+
+&Pokracovat do skoly%100
+
+~44 @Suseda
+<"Necum... starena,"> povedal si razne. Nanestastie pani vytiahla zo svojej pri-
+rucnej igelitky dlhy skleneny crep, obaleny malym kuskom latky, ktory proti te-
+be bojovne obratila a pomaly sa blizi k tebe...
+
+&Bojovat%45
+&Utiect%43
+
+~45 @Suseda_boj
+Bez mihnutia oka si si napravil slnecne okuliare a poobzeral si sa dookola 
+- crep tej stareny ale vyzera viac nez desivo.
+
+&Ferovka%64
+&Pouzit hasicak%46
+
+~46 @Suseda_boj
+V duchapritomnosti si zo steny odtrhol hasiaci pristroj a s prstom na spusti si
+namieril (jeho) hadicu oproti starene.
+
+&Otvorit kolo%65
+
+~65 @Suseda_boj
+Starena stoji oproti tebe a zlovestne mava crepom. Cely chodbu mate len pre se-
+ba...
+
+&Udriet%47
+&Uhasit%60
+
+~47 @Suseda_boj
+Napriahol si sa a celou silou si udrel susedu tvojej starkej do brady - <straca>
+<3 hitpointy>.
+
+ <--------------------------------------------------->
+ Stav: <1:0> Zdravie: <Ty> : 36 HP <Starena> : 21 HP
+ <--------------------------------------------------->
+                    
+&Dalsie kolo%48
+&Utiect%43
+
+~48 @Suseda_boj
+Starena ti nezostala nic dlzna - zahnala sa crepom a natrhla ti nasivku na bun-
+de - <stracas 1 hitpoint> a skvelu nasivku Blink 182.
+
+ <--------------------------------------------------->
+ Stav: <1:1> Zdravie: <Ty> : 35 HP <Starena> : 21 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%49
+&Utiect%43
+
+~49 @Suseda_boj
+Natiahol si hadicu hasiaceho pristroja, priblizil si sa k starenke a zacal si
+ju skrtit - <straca 8 hitpointov>.
+
+ <--------------------------------------------------->
+ Stav: <2:1> Zdravie: <Ty> : 35 HP <Starena> : 13 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%50
+&Utiect%43
+
+~50 @Suseda_boj
+Len co starena nabrala dych, nadhodila si crep do vzduchu a smahom ruky ho ho-
+dila po tebe - crep ti porezal ruku - <stracas 3 hitpointy>.
+
+ <--------------------------------------------------->
+ Stav: <2:2> Zdravie: <Ty> : 32 HP <Starena> : 13 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%51
+&Utiect%43
+
+~51 @Suseda_boj
+V navale zlosti si hodil cely hasiaci pristroj po starenke. Ta sa vsak letia-
+cemu pristroju uhla a ten zasiahol dvere - <straca 0 hitpointov>.
+
+ <--------------------------------------------------->
+ Stav: <2:3> Zdravie: <Ty> : 32 HP <Starena> : 13 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%52
+&Utiect%43
+
+~52 @Suseda_boj
+Starena vyuzila tvojej bezmocnosti a s huronskym revom sa vyrutila na teba 
+- <stracas 30 hitpointov>.
+
+ <--------------------------------------------------->
+ Stav: <2:4> Zdravie: <Ty> : 2 HP <Starena> : 13 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%53
+&Utiect%43
+
+~53 @Suseda_boj
+<"Z bojiska bud vyjdem ako vitaz alebo ako porazeny. Nikdy neutekam!"> hovo-
+ris starene a ta, nespustajuc z teba zrak, prikyvuje.
+...Rozbiehas sa a skaces rovno na starenu. Ta sialene krici, zatial co ty jej 
+trhas sive vlasy - <straca 4 hitpointy> a posledne tri vlasy. 
+
+ <--------------------------------------------------->
+ Stav: <3:4> Zdravie: <Ty> : 2 HP <Starena> : 9 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%54
+&Utiect%43
+
+~54 @Suseda_boj
+Nahnevana a plesata suseda v amoku vytrhava tazke zelezne vchodove dvere, aby 
+ich po tebe hodila - <stracas 3 hitpointy> a vlastnu sebauctu.
+
+ <--------------------------------------------------->
+ Stav: <3:5> Zdravie: <Ty> : -1 HP <Starena> : 9 HP
+ <--------------------------------------------------->
+
+                                 <...Si mrtvy...>
+&Koniec%55
+
+~55 @Suseda_boj
+Dnes mas ale stastie - <Degster> nerad ukoncieva rozohranu hru.
+Preto ti <Degster> ponuka cervenu pilulku (modre uz dosli) - ta ti ukaze, 
+ako hlboka je kralicia nora - ale uz nikdy viac nestretnes starenu, ktora ta 
+zeleznymi dverami ubila na smrt. 
+Alebo sa mozes otocit a vypadnut - do herneho menu na zaciatok tejto hry. Roz-
+hodnutie je na tebe... ale makaj! Mam tu este kopu roboty (napr. dokoncit tu-
+to hru)!
+
+&Cervena tabletka%72
+&Odist prec%56
+
+~56 @Suseda_boj
+Ako chces... Ale nie! To myslis vazne?! Uvazuj! Cervena pilulka = navrat, 
+Odist = odist!
+<Degster> ti chce pomoct... <Degster> sa z teba nevysmieva... :-)
+
+&Cervena tabletka!%72
+&Odist prec%57
+
+~57 @Suseda_boj
+Toto je tvoja <posledna> sanca! <Degster> straca trpezlivost!
+
+&Cervena tabletka!!%72
+&Odist prec%58
+
+~58 @Suseda_boj
+Toto je <VAZNE> tvoja posledna sanca! <Degster> uz naozaj straca trpezlivost!
+
+&Cervena tabletka!!!%72
+&Odist prec%59
+
+~59 @Suseda_boj
+Ty si to chcel... ?! <Degster> sa smeje... huahaha...
+
+&Menu%0
+&Cervena tabletka!!!!%72
+
+~60 @Suseda_boj
+Palcom si zatlacil na spust a tvoju superku pokryla biela pena z hasiaceho pri-
+stroja. Tym si ju vsak iba viac rozohnil - starena zo steny vytrhla kohosi pos-
+tovu schranku, ktoru ti hodila do brucha - <stracas 5 hitpointov>.
+ 
+ <--------------------------------------------------->
+ Stav: <0:1> Zdravie: <Ty> : 31 HP <Starena> : 24 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%61
+&Utiect%43
+
+~61 @Suseda_boj
+Naberas druhy dych a z hasiaceho pristroja striekas druhu davku peny - rovno 
+do stareninych oci - <straca 7 hitpointov> a cisty pohlad na svet :-).
+
+ <--------------------------------------------------->
+ Stav: <1:1> Zdravie: <Ty> : 31 HP <Starena> : 17 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%62
+&Utiect%43
+
+~62 @Suseda_boj
+Mierne oslepena starena sa naslepo ohana svojim crepom - <stracas 3 hitpointy> 
+a 3 dcl krvi.
+
+ <--------------------------------------------------->
+ Stav: <1:2> Zdravie: <Ty> : 28 HP <Starena> : 17 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%63
+&Utiect%43
+
+~63 @Suseda_boj
+Akokolvek si chcel byt uctivy a slusny k tejto dame v rokoch, tvoj pohar trpe-
+zlivosti pretiekol. A tak, pevne drziac hasiaci pristroj, rutis sa na bezmoc-
+nu starenku, stale sa ohanajucu crepom - <straca 16> a uteka z bojiska do svoj-
+ho bytu.
+
+&Uzavriet kolo%72
+
+~64 @Suseda_boj
+Zhlboka si sa nadychol a zovrel paste - si pripraveny na boj...
+
+&Otvorit kolo%66
+
+~66 @Suseda_boj
+Priskocil si k starenke a pastou si vybil sklenene oko - <straca 3 hitpointy>.
+
+ <--------------------------------------------------->
+ Stav: <1:0> Zdravie: <Ty> : 36 HP <Starena> : 21 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo %67
+&Utiect %43
+
+~67 @Suseda_boj
+Mierne nahnevana starenka pevne zovrela svojimi mozolnatymi ruckami svoj crep 
+a zabodla ti ho do stehna - <stracas 8 hitpointov>.
+
+ <--------------------------------------------------->
+ Stav: <1:1> Zdravie: <Ty> : 28 HP <Starena> : 21 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo %68
+&Utiect %43
+
+~68 @Suseda_boj
+Chytas starenku za vlasy a celom jej hodnu chvilu vybijas zuby na zubnej prote-
+ze - <straca 6 hitpointov>.
+
+ <--------------------------------------------------->
+ Stav: <2:1> Zdravie: <Ty> : 28 HP <Starena> : 15 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%69
+&Utiect%43
+
+~69 @Suseda_boj
+Len co sa starenka prebrala z bezvedomia, hodila po tebe svoje dve papuce s 
+ocelovymi spickami. Jednej si sa uspesne vyhol, no druha ta trafila rovno do 
+cela - <stracas 3 hitpointy>.
+
+ <--------------------------------------------------->
+ Stav: <2:2> Zdravie: <Ty> : 25 HP <Starena> : 15 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%70
+&Utiect%69.1
+
+~69.1 @Suseda_boj_d
+Otocil si sa a vybehol si z bytovky - avsak zlymi dverami a omylom si vosiel do
+pivnice. Je tu sero, no i tak rozlisujes tri  rozne dvere. <Enter the Matrix:>
+
+&Prve dvere%69.2
+&Druhe dvere %69.3
+&Tretie dvere %69.10
+
+~69.2 @Suseda_boj_d
+Zatlacil si na klucku prvych dveri. Bohuzial, su zamknute... Sklamal si a tajom-
+na pivnica domova dochodcov zostane navzdy ukryta pod ruskom tajomstva... Sorry
+
+&K starkej %72
+
+~69.3 @Suseda_boj_d
+Skusil si stastie a otvoril si druhe dvere - ocitol si sa v tmavej malej miest-
+nosti. Z trasucich sa reprakov, porozhadzovanych po podlahe, zneju vabive tony 
+pesnicky <Corrida> a k tomu vidis akehosi mladika, klaciaceho uprostred a odda-
+vajuceho sa meditaciam...
+
+&"Ehm, ehm..." %69.4
+
+~69.4 @Suseda_boj_d
+<"Ehm, ehm,"> odkaslal si si nervozne.
+Mladik otvoril oci a pozrel na teba pokojnym, rozvaznym pohladom...
+<"Vitaj. Cakal som ta,"> povedal tajomne a akoby silou mysle stisil hudbu z repro-
+duktorov.
+<"Kto si?"> opytal si sa.
+<"Ja som Degster,"> povedal mladik.
+<"Kde to sme?"> pytas sa znovu.
+<"Sme v... mojej miestnosti,"> odpoveda ti pokojne tvorca textovych hier.
+
+&"Cakal si ma?!" %69.6
+
+~69.6 @Suseda_boj_d
+<"Cakal si ma?"> pytas sa.
+<"Ano,"> prikyvuje Deg. <"Vedel som, ze sem skor ci neskor prides. Vedel som to...">
+<"Ako to?">
+<"Lebo ja som to vymyslel. Vymyslel som cely tento svet, kazdy jeho kut, dokonca i>
+tu divnu loptovu hru zvanu volejbal.">
+<"Ty si vymyslel i mna?">
+<"Nie. Prave ty si chybou v tomto programe. Ty si ty - preto mas i nemas meno. Pre->
+<toze svoje meno poznas iba ty sam - ja nie. Ale inak ta volam Erik...">
+
+&"O akom programe to hovoris?" %69.8
+&"Ako sa to cele skonci?" %69.9
+
+~69.8 @Suseda_boj_d
+<"O akom programe to hovoris?">
+<"TGE. Nim ovladam cely tento svet. Co napisem, to sa stane. Vzdy.">
+<"A co preklepy?">
+<"Tie neznasam.">
+
+&"A ako sa to cele skonci?" %69.9
+
+~69.9 @Suseda_boj_d
+<"Ako sa to cele skonci? Nemozes mi napisat frajerku? Mas rad psy?">
+<"Mas prilis vela otazok, Vyvoleny. Ja mam teraz vela prace - chcem si este na->
+< pisat sukromny koncert Kabatov. Ty teraz chod. Objavuj. Hraj. A nezabudni! Ta->
+< xikarkovi vzdy nechaj sprepitne... A teraz uz vazne chod - este sa uvidime.">
+
+&Dalej %72
+
+~70 @Suseda_boj
+Neostavas starenke nic dlzny a parkrat ju nakopavas do brucha a do krku - suma
+sumarum - <straca 9 hitpointov>.
+
+ <--------------------------------------------------->
+ Stav: <3:2> Zdravie: <Ty> : 25 HP <Starena> : 6 HP
+ <--------------------------------------------------->
+
+&Dalsie kolo%71
+&Utiect%43
+
+~71 @Suseda_boj
+Skoro bezvladna starenka sa naposledy pokusa o utok - svoj skleneny crep rozhry-
+za zvyskami svojej zubnej protezy na male kusky, ktore ti hadze to oci a do tva-
+re - <stracas 11 hitpointov>. To je ale jedno, lebo starenka ti uteka do svojho 
+bytu, odkial na teba vola mestsku policiu.
+
+&Uzavriet kolo%72
+
+~73 @Babka
+Spod lavicky pred vchodom si zodvihol mensi kamienok, velky asi ako golfova lop-
+ticka. Napriahol si sa, vytipoval spravne okno a "kamienok" si hodil. Nanestas-
+tie si uz len zacul rincanie rozbiteho skla a na vlastne prekvapenie si zazrel 
+akehosi starsia pana v tielku, ako po tebe hadze <kvetinac>.
+Vsetko sa, nastastie, vysvetlilo, pan zaliezol, hlava ta po chvili prestala bo-
+liet a rozbity kvetinac si zahodil.
+
+&Rozbit dvere%41
+&Kaslat na to%100
+
+~72 @Babka_doma
+Konecne prichadzas pred byt svojej starkej - zvnutra sa este ozyvaju kvilive 
+zvuky harmoniky, prehravane z radia.
+
+&Zazvonit%74
+
+~74 @Babka_doma
+Zatlacil si na zvoncek, no ten akoby nefungoval - vlastne ho prehlusili "zvuky"
+z bytu.
+
+&Zazvonit este raz%75
+
+~75 @Babka_doma
+Opat si netrpezlivo stlacil zvoncek - opat nic. Zacinas stracat trpezlivost.
+
+&Zazvonit naposledy%76
+
+~76 @Babka_doma
+Spravanie tvojej starej mamy ta vytocilo do nepricetnosti - kopol si do zvonce-
+ka a potom do dveri. Zvuk harmoniky z radia ale stale neuticha.
+
+&Zastrcit za zvoncek zapalku%77
+
+~77 @Babka_doma
+Z vrecka si vytiahol zapalku a zastrcil ju za zvoncek. Po polhodine ti stara 
+mama naozaj otvorila!
+Vosiel si do maleho, jednoizboveho bytu. Ruzove vzorkovane tapety su pokryte 
+plagatmi tak uspesnymi skupinami ako <Heligonaci> ci moravske <Harmonikove si->
+<lenstvo>.
+Uprostred obyvacky v molami prezratom kresle starka a pyta sa ta, preco ju otravu-
+jes (nikdy ta nemala rada)...
+
+&"Ako sa mas?"%78
+&Vymamit peniaze%80
+
+~78 @Babka_doma
+<"Ako sa mas, babi?"> pytas sa, v snahe zaliecit sa - zatial si prvy adept na de-
+dicstvo - i ked dedit plagaty, harmoniku a stare kazety sa ti velmi nechce.
+<"Dobre, dobre. Len ten duchod meska...">
+
+&"A co mas nove?"%79
+&Vymamit peniaze%80
+
+~79 @Babka_doma
+<"A co mas nove?"> pytas sa starenky milo. Ta na to spod zadku vytiahla svoj 
+dennik, na oci si nasadila dalekohlad a pustila sa do svojej naoblubenejsej cin-
+nosti.
+<"Pondelok,"> zacala starenka a traslavymi prstami zmolila zazltnute stranky. 
+<"Kolinova z druheho si vyvrtla clenok, ked rano spadla zo schodov... Utorok.>
+<Stary Brecz z piateho vyskocil z druheho... Streda. Prisla postarka. Bez duchodu..>
+<Doniesla iba sek, ale nie cash... Stvrtok. Tomkova z tretieho sa opila... Piatok.>
+<Tomkova z tretieho sa prebudila...">
+A takto by to slo dalej. Keby sa starka neprekecla, ze tieto autenticke zapisky po-
+chadzaju este z roku 1997 - vtedy si ju konecne zastavil.
+
+&Vymamit peniaze%80
+
+~80 @Babka_doma
+<"Daj mi dajake peniaze,"> povedal si a natrcil si dlan.
+<"Dobre, dobre,"> prikyvla starenka a vypla si nasluchadlo.
+
+&Najst ukryte peniaze%81
+&Odist%90
+
+~81 @Babka_doma
+Opatrne po spickach si starenku ponechal v zatuchnutej obyvacke a vydal si sa 
+do malej kuchyne najst nejake schovane peniaze.
+Pozn. autora - toto je cisto (Pulp) fiction - neokradajte, prosim, starych 
+ludi... su to tiez ludia :-)... nie, vazne... fakt!
+
+&Hladat medzi poharmi%82
+&Hladat na policke%83
+
+~82 @Babka_doma
+Medzi poharmi?! Ktory clovek by si peniaze ukryl medzi pohare?! No dobre - proti
+gustu ziadny disputat (ci ako)...
+ ...
+Haha! Medzi poharmi si ziadne peniaze, samozrejme, nenasiel! Jedine, co stoji za
+zmienku, je zazltnuta vstupenka z Woodstocku zo '69... hm...
+
+&Hladat na policke%83
+
+~83 @Babka_doma
+Tvoj chamtivy pohlad zrazu objavil malu policku, na ktorej boli porozhadzovane 
+dake uradne lajstra, starkina penazenka, MP3 prehravac a iPOD...
+
+&Lastra%84
+&Penazenka%85
+&MP3 prehravac%86
+&Odist%90
+
+~84 @Babka_doma
+Z policky si zodvihol par uradnych lajster, podla ktorych tvoja prapraprastara 
+mama bola svedskou princeznou a ze vsetko dedicstvo (= asi polovicu statneho 
+rozpoctu, samozrejme svedskeho) dostane tvoja babka na zaklade novych zisteni 
+v pribuzenskych vztahoch...
+Inak tam nebolo nic zaujimave... hej, a princ Charles je tvoj stryko presne z 
+osemdesiateho kolena...
+
+&Penazenka%85
+&MP3 prehravac%86
+&Odist%90
+
+~85 @Babka_doma
+Z policky si zodvihol objemnu penazenku a z lesknucimi ocami si ju otvoril (je 
+mi z teba zle)... Okrem par stoviek Euro si nic nenasiel, tie si ale ponechal 
+starkej - za pat stoviek si dnes nic poriadne nekupis...
+
+&Odist%90
+
+~86 @Babka_doma
+Zapol si si starkej MP3 prehravac a do usi si si vlozil sluchadla. Ale okrem uz 
+spominanych skupin ako Heligonaci, Jozin spieva, Harmonikove silenstvo, ci Pe-
+nnywise si nenasiel nic.
+
+&Penazenka %85
+&Odist %90
+
+~90 @Babka_doma
+Konecne si vypadol z toho zatuchnuteho bytu, smrdiaceho starobou a mocom. Sta-
+ru mamu si prenechal potkanom, krcovym zilam a ladvinovym kamenom.
+
+&Pokracovat do skoly %100
+
+~100 @Skola!
+Neustavas a pokracujes vo svojej ceste s poslanim vzdelavat sa. Prave cierne 
+burkove mracna, zbiehajuce sa nad jednym miestom v dialke, ta vedu do ciela - 
+vychovno-vzdelavaco-napravneho centra pre deti a mladez...
+Vo vrecku nohavic spotenymi prstami zmolis Prsten (ktory si ako 6-rocny vytia-
+hol z KinderVajca) a citis, ze velke cervene Ohnive oko riaditela skoly (ma za-
+pal spojiviek), vznasajuce sa nad skolou, teba i tvoj Prsten uprene pozoruje...
+
+&Dalej%101
+
+~101 @Skola
+Stojis pred starou skolou, ktoru viac-menej navstevujes uz jeden rok. Velke ho-
+diny nad dverami ukazuju 8:07 - vyucovanie sa ti zacalo presne pred 22 minutami
+- ides prave vcas.
+Vsade na okoli je ticho... desive ticho. Tvoja radost z navratu zmizla - blaho-
+zelam!
+
+&Do skoly%200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    
+~500 @Readme
+                         <ONE F*I*N*E DAY: Pondelok>
+                         <------------------------->
+                                <R E A D  M E>
+
+Ani neviem ako a opat som si zasadol za pocitac a pustil sa do pisania a tak,
+ani neviem ako, prislana svet uz moja TRETIA textovka v TGE - Text Game Engine.
+Tentokrat som sa rozhodol venovat skole - co by najcastejsom, no najvdacnejsom
+namete na textove hry (a vlastne ani netusim preco...).
+Uz podal nazvu mozete usudit: a) ze toto je uz vlastne DRUHY diel a pokracova-
+                                 nie
+                                 mojho debutu - One Fine Day: Nedela
+                              b) ze dej sa odohrava v pondelok - teda najhorsom
+                                 dni v celom tyzdni (ak nepocitam nedelu :-))
+A co k tomu dodat viac? Asi nic. Jednoducho vam zelam vela zabavy pri hrani 
+tejto hry - minimalne tolko, kolko som zazil ja sam pri pisani a hlavne pri zbie-
+rani nametov a napadov.
+
+&KreditZ %501
+
+~501 @KreditZ
+
+<Kredits>:
+
+       <Text ..... Degster (kontakt: degster@szm.sk // www.degster.szm.sk)>
+       <Idea ..... Degster>
+   <Program  ..... TGE by The Fox (thefox@pobox.sk // www.tfden.host.sk)>
+    <Grafika ..... Stevie Wonder> :-)
+
+   <Betatest ..... Degster, 
+    
+<A aby toho> 
+<nebolo malo ..... Degster :-)>
+
+&Menu%0
+      
+~200 @Koniec
+
+
+
+
+
+
+
+                           Tuto hru Ti priniesol
+                                  <Degster>
+                                 (c) 2007
+
+                              <degster@szm.sk>
+                            <www.degster.szm.sk>
+
+
+
+
+
+
+
+
+|
