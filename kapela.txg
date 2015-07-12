@@ -1,21 +1,18 @@
 ~0 @Zaciatok                  
 
                            * * * *                  
-                         * <KAPELA> *
+                         * KAPELA *
                            * * * *
                           TextGame
                       By Degster, 2007
 
-&NOVA HRA %1
+&NOVÁ HRA %1
 &READ ME + KREDITS%111
 &KONIEC%113
 
 
 ~1 @Uvod                
-Je piatok, <15.45> a teba teraz plne zamestnava tvoj starozitny budik s Mickey 
-Mousom, ktory vyzvana a neda ti spat. Nacvicenym pohybom nohy ho nenechavas 
-dlho vyzvanat a skopavas ho z nocneho stolika.
-Uz nemas vela casu, musis urychlene vstat!
+Je piatok, 15:45 a teba teraz plne zamestnáva tvoj starožitný budík s Mickey  Mousom, ktorý vyzváňa a nedá ti spať. Nacvičeným pohybom nohy ho nenechávaš dlho vyzváňať a skopávaš ho z nočného stolíka. Už nemáš veľa času, musíš urýchlene vstať!
 
 &Spat! %2
 &Vstavat! %3
@@ -548,7 +545,7 @@ Zabili ho?        Nie.
 Spachal samovrazdu?        Ano.
 Zastrelil sa?        Nie.
 Smrt nastala padom?        Ano.
-Z vrtuln�ka?        Nie.
+Z vrtulníka?        Nie.
 Z rogala?        Nie.
 Z balona?        Ano.
 Jasny debil!        Nie!
@@ -570,7 +567,7 @@ Ten, kto si vytiahne najkratsiu zapalku,
 s gestom velkeho hrdinu zamava na dialku.
 
 Vies ty, vobec, kto su to ti inteligenti?
-Neviem, aj ke� zabijes ma, tak nepoviem ti.
+Neviem, aj keď zabijes ma, tak nepoviem ti.
 
 &Dalej%44
 
@@ -606,7 +603,7 @@ no ale cez vikend mam
 vzdy nadherny svet
 
 V piatok podvecer si zresetujme hlavy,
-mozno, �e sa najde v jednej rozum zdravy,
+mozno, e sa najde v jednej rozum zdravy,
 ved to je jedine co nas vsetkych bavi
 v piatok si realitu odstranit z hlavy do zil.
 
@@ -1044,7 +1041,7 @@ na skusobni...
 <"Cau, to som ja. Ako to vyzera s Robom?">
 <"Spi. Kde si?">
 <"Na ceste do mesta po tie tabletky. Dovtedy ho nechajte vyspat a vy sa za->
-<tial �ripravte. Koncert dnes musite odohrat!">
+<tial úripravte. Koncert dnes musite odohrat!">
 <"O.K. Potom sa ozvi.">
 
 &Dalej%92
