@@ -1,77 +1,67 @@
-~0 @Zaciatok                  
-
-                           * * * *                  
-                         * KAPELA *
-                           * * * *
-                          TextGame
-                      By Degster, 2007
+~0 @Začiatok                  
+KAPELA by Degster, 2007
 
 &NOVÁ HRA %1
 &READ ME + KREDITS%111
 &KONIEC%113
 
 
-~1 @Uvod                
+~1 @Úvod                
 Je piatok, 15:45 a teba teraz plne zamestnáva tvoj starožitný budík s Mickey  Mousom, ktorý vyzváňa a nedá ti spať. Nacvičeným pohybom nohy ho nenechávaš dlho vyzváňať a skopávaš ho z nočného stolíka. Už nemáš veľa času, musíš urýchlene vstať!
 
-&Spat! %2
-&Vstavat! %3
+&Spať! %2
+&Vstávať! %3
 
-~2 @Spat              
-Kasles na budik (i ked uz necenga) a zaspavas... Hups, to bol prikazovy pre-
-klep! Ved ty musis urychlene vstavat! A tak vstavas... :-)
+~2 @Spať
+Kašleš na budík (i keď už necengá) a zaspávaš... Hups, to bol príkazový preklep! Veď ty musíš urýchlene vstávať! A tak vstávaš... :-)
 
-&Vstavat! %4
+&Vstávať! %4
 
-~3 @Vstavat              
-Nemotorne sa snazis posadit na posteli, no gravitacia je silnejsia a ty opat 
-padas do postele. Je tu super - teplo a makko... tak naco vstavat, ked staci 
-zavriet oci a... Nie! Musis byt silny! Musis premoct unavu! Musis vstat!
+~3 @Vstávať
+Nemotorne sa snažíš posadiť na posteli, no gravitácia je silnejšia a ty opäť padáš do postele. Je tu super – teplo a mäkko... Tak načo vstávať, keď stačí zavrieť oči a... Nie! Musíš byť silný! Musíš premôcť únavu! Musíš vstať!
 
-&Vstavat! %4
+&Vstávať! %4
 
-~4 @Horesa              
-V kupelni sa rychlo davas dokopy, umyvas zalepene oci a rozcesavas hniezdo na 
-hlave. V kuchyni do seba este nalievas pol litra mineralky na vyschnute hrdlo 
-a finalne na seba navliekas lepsie handry.
-<Dnes je totiz Den D!>
+~4 @Horesa
+V kúpeľni sa rýchlo dávaš dokopy, umývaš zalepené oči a rozčesávaš hniezdo na 
+hlave. V kuchyni do seba ešte nalievaš pollitra minerálky na vyschnuté hrdlo 
+a finálne na seba navliekaš lepšie handry.
+Dnes je totiž deň D!
 
-&Dalej %5
+&Ďalej %5
 
 ~5 @Kapela
-Preco <Den D>?
-Dnes vecer o osmej totiz budu preverene tvoje schopnosti manazera mladej miest-
-nej rokovej kapely <Pathetic>, ktoru pred troma rokmi zalozili tvoji priatelia 
-a ty si prijal ich ponuku stat sa ich manazerom!
-A prave dnes odohraje <Pathetic> svoj prvy koncert a je len na vas, ako to ce-
-le dopadne.
+Prečo deň D?
+Dnes večer o ôsmej totiž budú preverené tvoje schopnosti manažéra mladej miestnej rockovej kapely Pathetic, ktorú pred tromi rokmi založili tvoji priatelia 
+a ty si prijal ich ponuku stať sa ich manažérom!
+A práve dnes odohraje Pathetic svoj prvý koncert a je len na vás, ako to celé dopadne!
 
-&Dalej %6
+&Ďalej %6
 
 ~6 @Vonku
-Aby si bol vecer o osmej v co najlepsej forme, "hodil si si doma sorika", za-
-tial co tvoji kamosi usilvne skusali v skusobni.
-Je <16.00> a ty by si mal ist do skusobne za nimi, tak ako ste sa dohodli. Na 
-druhej strane dochvilnost nepatri medzi tvoje silne stranky...
-Stojis na polorozpadnutom socialistickom panelakovom sidlisku, ktoremu uz 17
-rokov hovoris domov. Skratka tu poznas vsetkych ludi, vsetci ludia tu poznaju
-teba :-).
+Aby si bol večer o ôsmej v čo najlepšej forme, hodil si si doma šórika, za-
+tiaľ čo tvoji kamoši usilovne skúšali v skúšobni.
+Je 16:00 a ty by si mal ísť do skúšobne za nimi, tak ako ste sa dohodli. Na 
+druhej strane dochvíľnosť nepatrí medzi tvoje silné stránky...
+Stojíš na polorozpadnutom socialistickom panelákovom sídlisku, ktorému už 17
+rokov hovoríš domov. Tu poznáš všetkých ľudí a všetci ľudia tu poznajú
+teba. :-)
 
-&Pobehnut do trafiky po fajcivo %7
-&Zbehnut za kapelou skusobne %105
+&Pobehnúť do trafiky pre fajčivo %7
+&Zbehnúť za kapelou do skúšobne %105
 
 ~7 @Trafika
-Pred koncertom bude este treba skludnit nervy, rozmyslas a kracas do blizkej 
-trafiky doplnit nikotin. Na sidlisku, kde byvas, je toto jedina trafika a tak 
-dufas, ze s tvojou (ne)plnoletostou nebude problem (ak si tu logicky kupuje 
-cigy cele sidlisko)... len aby.
+Pred koncertom bude ešte treba upokojiť nervy a tak kráčaš do blízkej 
+trafiky doplniť nikotín. Na sídlisku, kde bývaš, je toto jediná trafika a tak 
+dúfaš, že s tvojou (ne)plnoletosťou nebude problém (ak si tu logicky kupuje 
+cigy celé sídlisko)... len aby.
 
-<"Co to bude?"> vrci na teba plesaty predavac, i ked rozmyslas, ci nepatri k 
+"Čo to bude?" vrčí na teba plešatý predavač, i keď rozmýšľaš, či nepatrí k 
 ochranke tohto podniku.
 
-&Marlborky a zuvacky %8
+&Marlborky a žuvačky %8
 &Marloborky a Playboya %13
-&Zuvacky %14
+&Žuvačky %14
 
 ~8 @Trafika2
 Od plesiny si si vypytal krabicku Marlboriek (nie si ziadny troskar) a zuvacky 
