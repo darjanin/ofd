@@ -1,114 +1,108 @@
 ~0 @Zaciatok                  
-                  
-                   <ONE F*I*N*E DAY: Nedela>
-                      By Degster, 2007
+ONE F*I*N*E DAY: Nedela by Degster, 2007
 
-&NOVA HRA %100
+&NOVÁ HRA %100
 &READ ME + KREDITY%101
 
-~100 @Uvod
-Je nedela vecer a ty sedis za svojim starym, drevenym, zvraskavenym 
-pocitacom, ktory ti z duboveho polena vyhobloval este stryko k tvo-
-jim 6. narodeninam.
-Kyvadlove naramkove hodinky pohodene na stole ukazuju 16:41. Tento u-
-daj si vsimas uz od chvile, co hodinky ukazovali 15:37 - uz odvtedy 
-vies, ze miesto hrania piskvoriek by si sa mal pripravovat na zaj-
-trajsi den v skole... Smola, piskvorky nepustia...
-No uz ta aj tak zacali nudit, je cas vybrat inu aktivitu na nedelne 
+~100 @Úvod
+Je nedeľa večer a ty sedíš za svojím starým, dreveným a zvráskaveným 
+počítačom, ktorý ti z dubového polena vyhobľoval ešte strýko k tvojím 6. narodeninám.
+Kyvadlová náramkove hodinky, pohodené na stole, ukazujú 16:41. Tento ú-
+daj si všímaš už od chvíle, čo hodinky ukazovali 15:37 – už odvtedy 
+vieš, že namiesto hrania sa piškvoriek by si sa mal pripravovat na zaj-
+trajší deň v škole... Smola, piškvorky nepustia. No už ťa aj tie začali nudiť, je čas vybrat inú aktivitu na nedeľné 
 odpoludne:
 
-&Zacat sa ucit %1
-&Zacat sa ucit %1
-&Zacat sa ucit %1
+&Začať sa učiť %1
+&Začať sa učiť %1
+&Začať sa učiť %1
 
-~1 @Chemia
-Po tuhom rozmyslanim nad dalsim piskvorkovym tahom si sa napokon roz-
-hodol vytiahnut z pivnice svoj skolsky batoh a <KONECNE> sa zacat ucit 
-na zajtrajsi (pondelkovy) den plny skusania.
+~1 @Začať sa učiť
+Po tuhom rozmýšľaní nad ďalším piškvorkovým ťahom si sa napokon roz-
+hodol vytiahnuť z pivnice svoj školský batoh a konečne sa začať učiť 
+na zajtrajší (pondelkový) deň plný skúšania.
 
-&Ucit sa, ucit sa, ucit sa %2
+&Učiť sa, učiť sa, učiť sa %2
 
-~2 @Chemia2
-Po desiatich minutach cumenia do nezrozumitelnych poznamok z chemie,
-hydroxidov, kyselin a zasad si radsej v zaujme zachovania zdraveho
-rozumu zavrel zosit a hodil ho do piecky na drevo - radiatory vam od-
-pojil Energobit pred troma rokmi - odvtedy nutene podporujete ekolo-
-gicke vykurovacie zdroje ako macky a stare koberce.
-A tak sedis a nemas do coho pichnut (okrem 80-rocnej starej panny na 
-druhom poschodi)...
+~2 @Učíme sa chémiu
+Po desiatich minútach čumenia do nezrozumiteľných poznámok z chémie,
+hydroxidov, kyselin a zasad si radsej v zaujme zachovania zdravého
+rozumu zavrel zošit a hodil ho do piecky na drevo - radiátory vám od-
+pojil Energobiť pred troma rokmi - odvtedy nútene podporujete ekolo-
+gické vykurovacie zdroje ako drevo, mačky a staré koberce.
+A tak sedíš a nemáš do čoho pichnúť (okrem 80-ročnej starej panny na 
+druhom poschodí)...
 
-&Vypocut si kvalitnu LP nahravku%3
-&Zablbnut si so zapalkami%9
-&Vypadnut von %10
+&Vypočuť si kvalitnú LP nahrávku%3
+&Zablbnúť si so zápalkami%9
+&Vypadnúť von %10
 
-~3 @Hudba
-Zo skrine si vytiahol starodavny gramofon a nejake LP platne ako bo-
-nus... Tak, cim zacnes diskoteku?
+~3 @Hudbičky
+Zo skrine si vytiahol starodávny gramofón a nejaké LP platne ako bo-
+nus. Tak čím začneš diskotéku?
 &Alkehol - Hospodo nalejvej %4
 &Blink 182 - Go %5
 &Box Car Racer - Instrumental %6
-&Kabat - Porcelanovy prasata %7
+&Kabát - Porcelánový prasata %7
 
-~4 @Alkehol
-Do gramofonu si opatrne vlozil dosku s nazvom <Alkehol - Hospodo na-
-lejvej>...
-Po par sekundach chrapcania a cakania na orchestralny zazitok sa
-tvojou izbou prehnala divoka vlna <rocku>.
-<"Hej, hej, hej, hej!!!>" Krical si z plnych pluc a prehadzoval si 
-vsetko, co sa prehodit nechalo (vratane nemohucej babky na voziku).
-Tvoje besnenie zastavil az prislusnik VB.
+~4 @Alkehol - Hospodo nalejvej
+Do gramofónu si opatrne vložil dosku s názvom Alkehol - Hospodo nalejvej...
+Po pár sekundách chrapčania a čakania na orchestrálny zážitok sa
+tvojou izbou prehnala divoká vlna rocku!
+"Hej, hej, hej, hej!!!" kričal si z plných pľúc a prehadzoval si 
+všetko, čo sa prehodiť nechalo (vrátane nemohúcej babky na vozíku).
+Tvoje besnenie zastavil až príslušník ozbrojených zložiek.
 
-&Dalej %3
+&Ďalej %3
 
-~5 @Blink
-Z krabice si vyhrabal podivnu dosku <Blink 182 - Go>.
-Vlozil si ju do gramofonu, cakajuc na to, co bude nasledovat...
-Podla ocakavani ta bicie Travisa Barkera rozohnili tak, ze pokri-
-kujuc <"Go, go, go, go!!!>" si pogoval po celej izbe, potom po ce-
-lom byte a ked si sa dverami, ktore otvoril tvoj brat, aby vynie-
-sol smeti, dostal von, tak uz pogoval po celom sidlisku.
-Zastavil ta az narodna garda... ale sila <neopunku> bola aj pre nu
-tvrdy oriesok...
+~5 @Blink 182 - Go
+Z krabice si vyhrabal podivnú platňu Blink 182 - Go.
+Vložil si ju do gramofónu, čakajúc na to, čo bude nasledovať...
+Podľa očakávaní ťa bicie Travisa Barkera rozohnili tak, že pokri-
+kujúc "Go, go, go, go!!!" si pogoval po celej izbe, potom po ce-
+lom byte a keď si sa dverami, ktoré otvoril tvoj brat, aby vynie-
+sol smeti, dostal von, tak si už pogoval po celom sídlisku.
+Zastavila ťa až národná garda... ale sila neopunku bola aj pre ňu
+tvrdý oriešok...
 
-&Dalej %3
+&Ďalej %3
 
-~6 @Box
-Odniekial si vytiahol dosku <Box Car Racer - Instrumental>.
-Po par sekundach prehravania si vo vytrzeni vypadol z otvoreneho
-okna... Po pol hodine, ked vytrzenie opadlo, si sa vratil spat, 
-aby si pokracoval v <"diskoteke pre susedov">...
+~6 @Box Car Racer - Instumental
+Odnekiaľ si vytiahol platňu Box Car Racer - Instrumental.
+Po pár sekundách prehrávania si vo vytržení vypadol z otvoreného
+okna... Po polhodine, keď vytrženie opadlo, si sa vrátil späť, 
+aby si v diskoteke pre susedov pokračoval.
 
-&Dalej %3
+&Ďalej %3
 
-~7 @Kabat
-Z otcovej zbierky si si narychlo pozical <Kabat - Porcelanovy pra->
-<sata>...
+~7 @Kabát - Porcelánový prasata
+Z otcovej zbierky si si narýchlo požičal Kabát - Porcelánový prasata...
 
-<"Tak dem, proc ne, vsechno to rozbijem!>
-<Porcelanovy prasata prachama narvany>
-<Auta, chaty, bazeny a ruce spinavy.>
-<Damy cely ze zlata co zlaty zuby maj,>
-<chovaj si ty svy prasata a obcas jim i daj!>
+"Tak dem, proč ne, všechno to rozbijem!
+Porcelánový prasata prachama narvaný,
+auta, chaty, bazény a ruce špinavý.
+Dámy celý ze zlata co zlatý zuby maj,
+chovaj si ty svý prasata a občas jim i daj!
 
-<Tak dem, proc ne, vsechno to rozbijem,>
-<tak dem, proc ne, trochu si uzijem!">
+Tak dem, proč ne, všechno to rozbijem,
+tak dem, proč ne, trochu si užijem!"
 
-Dalsi komentar je tu zbytocny... nech zije Kabat!
+Ďalší komentár je tu zbytočný... nech žije Kabát!
 
-&Dalej %2
+&Ďalej %2
 
-~9 @Zapalky
-Odkialsi z vrecka si vytiahol "bezpecnostne" zapalky a tak si si s 
-nimi trosku zablbol -> zapaloval si a uhasinal si vsetko, co ti pris-
-lo pod ruky. A tak po pol hodine blbnutia ste mali byt plny dymu a 
-smradu z obhorenej omietky. Potom si zapalky ukryl, aby si s nimi nik-
-to neublizil.
+~9 @Hra so zápalkami
+Odkiaľsi z vrecka si vytiahol "bezpečnostné" zápalky a tak si si s 
+nimi trošku zablbol -> zapaľoval si a uhasínal si všetko, čo ti priš-
+lo pod ruku. A tak po polhodine blbnutia ste mali byt plný dymu a 
+smradu z ohorenej omietky. Potom si zápalky radšej ukryl, aby si s nimi nik-
+to neublížil.
 
-&Dalej %2
+&Ďalej %2
 
-~10 @Von
-Rozhodol si sa vypadnut von - do prudkej snehovej burky - kde je ur-
-cite lepsie ako v tej prudkej nude doma.
+~10 @Padáme von
+Rozhodol si sa vypadnúť von - do prudkej snehovej burky - kde je ur-
+čite lepšie ako v tej prudkej nude doma.
 Mas vytipovanych par miest, kde mozes stretnut zname tvare, alebo aj 
 nie, ved do takejto snehovej (f/ch)ujavice by liezol iba uplny debil, 
 vsak?
